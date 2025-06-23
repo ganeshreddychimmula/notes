@@ -1,0 +1,13 @@
+This folder is crucial for **navigating your knowledge network**, especially as it grows in size, helping to prevent clutter.
+-  **Tags**: Stores tags as empty notes, which is the preferred method over traditional hashtags. To apply a tag, you create a link to its note (e.g., `[[humility]]`). Clicking the grayed-out link creates the note, which is then moved to this "Tags" folder, allowing infinite reuse. Tags should be neither too vague nor too precise, and ideally relate to your personal interests, not common categories. Keep the number of tags per note low, ideally below four or five.
+-  **Creation of Tags**:
+	- Rather than using traditional hashtags directly within notes, the preferred method is to store **each tag as an empty note** within this "Tags" folder.
+	- To apply a tag to a note, you **create a link to this empty tag note** using double square brackets (e.g., `[[humility]]`).
+	- When you first create such a link, it will appear grayed out if the tag note doesn't exist. Clicking on this grayed-out link automatically **creates the tag note**. You then **move this newly created tag note into your "Tags" folder**. Once created and moved, this tag note can be **infinitely reused** across many other notes.
+-  **Pointers for Effective Tagging**:
+	- **Avoid vague tags**: Tags like "self-improvement" are too broad and unhelpful, as they could encompass many disparate topics.
+	- **Avoid overly precise tags**: Strive for a middle ground where tags are general enough to be reusable but specific enough to be meaningful. Ask yourself if you will likely use the tag again for future content.
+	- **Align tags with your personal interests**: Your tags should reflect what _you_ are interested in, not necessarily common or general categories. For instance, a tag like "dangers to male-female relationships" might be niche but useful if it aligns with your specific interests, as it will reveal your thought patterns.
+	- **Limit the number of tags**: Aim to keep the number of tags per note low, ideally **below four or five**. Too many tags (e.g., six, seven, or eight) can make the system confusing and messy.
+	- **Finding forgotten tags**: If you forget an existing tag, you can search for similar notes using the hyperlink function and then check the tags used in those notes, which might remind you of the tag you're looking for.
+	- 
