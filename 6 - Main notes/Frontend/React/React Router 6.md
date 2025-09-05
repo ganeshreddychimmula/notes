@@ -7,7 +7,6 @@ Tags: [[React]] [[React Router]]
 
 ---
 # React Router 6
-https://reactrouter.com/6.30.1/start/overview
 https://reactrouter.com/6.30.1/start/tutorial
 
 ## What is the difference between react-router and react-router-dom [^1]
@@ -1037,25 +1036,37 @@ export default function AuthRequired() {
 
 - useLocation
 ---
+## Relevant Links
+https://reactrouter.com/6.30.1/components/link#state
+https://reactrouter.com/6.30.1/hooks/use-outlet-context
+https://reactrouter.com/6.30.1/hooks/use-search-params
+https://developer.mozilla.org/en-US/docs/Web/API/URLSearchParams#urlsearchparamssymbol.iterator
+https://reactrouter.com/6.30.1/hooks/use-location#uselocation
+https://reactrouter.com/6.30.1/hooks/use-navigate#usenavigate
+https://reactrouter.com/6.30.1/hooks/use-location
+https://reactrouter.com/6.30.1/route/error-element#errorelement
+https://reactrouter.com/6.30.1/hooks/use-route-error
+https://developer.mozilla.org/en-US/docs/Web/API/Response
+https://reactrouter.com/6.30.1/route/loader
+https://developer.mozilla.org/en-US/docs/Web/API/URLSearchParams#urlsearchparamssymbol.iterator
+https://developer.mozilla.org/en-US/docs/Web/API/URL/searchParams
+https://reactrouter.com/6.30.1/hooks/use-location#properties
+
+---
 ## References
 [[Single Page Vs multipage Applications]]
 [[Deploy to Netlifly]]
 [[Mirage JS]]
 [[Using fetch() in React]]
-https://reactrouter.com/6.30.1/components/link#state
-https://reactrouter.com/6.30.1/hooks/use-outlet-context
-https://reactrouter.com/6.30.1/hooks/use-search-params
-https://developer.mozilla.org/en-US/docs/Web/API/URLSearchParams#urlsearchparamssymbol.iterator
-
-https://reactrouter.com/6.30.1/hooks/use-location#uselocation
-https://reactrouter.com/6.30.1/hooks/use-navigate#usenavigate
-https://reactrouter.com/6.30.1/hooks/use-location
-
-
-
-
 [[Loaders and actions - React Router]]
-
 [^1]: [[React Router 6 vs 7]]
-
 [^2]: [[How to pick a Router - React Router 6]]
+
+
+
+
+
+
+
+
+
