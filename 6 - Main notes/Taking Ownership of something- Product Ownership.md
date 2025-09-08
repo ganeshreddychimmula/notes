@@ -157,4 +157,4 @@ I figured the hard part of software engineering was building things. But now, ma
 [^1]:  https://www.jeremybrown.tech/product-and-engineering-who-owns-what/
 [^2]: https://neilkakkar.com/How-I-Own-Projects-as-a-Software-Engineer.html
 [[How to work out what your users really need]]
-[[Making Things Happen]]
+[[How to Make Things Happen]]
