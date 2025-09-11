@@ -136,9 +136,9 @@ Tags: [[Roadmap]] [[FrontEnd]]
 
 ---
 ## References
-[[6-Month Full-Stack AI Developer Roadmap (React + TypeScript to Agentic AI)]]
-[[Front End Resources]]
-[[React Resources]]
+[[../../2 - Source Material/Resources/6-Month Full-Stack AI Developer Roadmap (React + TypeScript to Agentic AI)]]
+[[../../2 - Source Material/Resources/Front End Resources]]
+[[../../2 - Source Material/Resources/React Resources]]
 [[Fullstackopen Course]]
 [[Tailwind CSS]]
 [[Advanced React - scrimba]]

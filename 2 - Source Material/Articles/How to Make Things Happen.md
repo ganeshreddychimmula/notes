@@ -185,3 +185,4 @@ Being savvy means you are looking for, and willing to take, the smarter route. T
 
 ---
 ## References
+[[../../6 - Main notes/How to Make Things Happen in Life]]

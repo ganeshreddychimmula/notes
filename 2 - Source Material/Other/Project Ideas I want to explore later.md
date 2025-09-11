@@ -1,7 +1,7 @@
 
 2025-07-03 10:51
 
-Status: [[Career]] [[Project Ideas]]
+Status: [[Career]] [[Project Ideas]] [AI-ML Resources](../Resources/AI-ML%20Resources.md)
 
 Tags:
 

@@ -1,0 +1,21 @@
+filters:
+  and:
+    - file.hasLink("3 - Tags/React")
+formulas:
+  Untitled: ""
+  Untitled 2: ""
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - file.backlinks
+      - file.tags
+      - formula.Untitled
+      - file.path
+    sort: []
+  - type: cards
+    name: View
+    cardSize: 330
+    imageFit: ""
+    imageAspectRatio: 1
