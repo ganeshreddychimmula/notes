@@ -38,9 +38,9 @@ https://fullstackopen.com/en/part1
 
 ---
 ## References
-[[Updating Node.js - installation and setup]]
-[^1]: [[0 b Fundamentals of Web apps - Fullstackopen]]
-[^2]: [[1a - Introduction To React- Fullstackopen]]
-[^3]: [[1b - Javascript - Fullstackopen]]
-[^4]: [[1c - Component state, event handlers - FullStackOpen]]
-[^5]: [[1d - A more complex state, debugging React apps - Fullstackopen]]
+[Updating Node.js - installation and setup](6%20-%20Main%20notes/Frontend/Updating%20Node.js%20-%20installation%20and%20setup.md)
+[^1]: [0 b Fundamentals of Web apps - Fullstackopen](6%20-%20Main%20notes/Frontend/0%20b%20Fundamentals%20of%20Web%20apps%20-%20Fullstackopen.md)
+[^2]: [1a - Introduction To React- Fullstackopen](6%20-%20Main%20notes/Frontend/React/1a%20-%20Introduction%20To%20React-%20Fullstackopen.md)
+[^3]: [1b - Javascript - Fullstackopen](6%20-%20Main%20notes/Frontend/Javascript%20notes/1b%20-%20Javascript%20-%20Fullstackopen.md)
+[^4]: [1c - Component state, event handlers - FullStackOpen](6%20-%20Main%20notes/Frontend/React/1c%20-%20Component%20state,%20event%20handlers%20-%20FullStackOpen.md)
+[^5]: [1d - A more complex state, debugging React apps - Fullstackopen](6%20-%20Main%20notes/Frontend/React/1d%20-%20A%20more%20complex%20state,%20debugging%20React%20apps%20-%20Fullstackopen.md)

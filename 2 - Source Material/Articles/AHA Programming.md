@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [[Article]]
+Tags: [Article](3%20-%20Tags/Article.md)
 
 ---
 # AHA Programming

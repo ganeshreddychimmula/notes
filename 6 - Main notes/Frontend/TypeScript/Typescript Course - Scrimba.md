@@ -63,6 +63,8 @@ let myName: "Bob" = "Bob"
 const myName2: "Bob" = "Bob" // You don't need to declare such types, because typescript automatically infers these
 ```
 
+- Unions
+`type UserRole = "guest" | "member" | "admin"`
 - 
 ---
 ## References

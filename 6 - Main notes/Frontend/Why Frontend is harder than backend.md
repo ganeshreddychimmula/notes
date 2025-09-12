@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [[Argument]] [[Career]]
+Tags: [Argument](Argument) [Career](3%20-%20Tags/Career.md)
 
 ---
 # Why Frontend is harder than backend

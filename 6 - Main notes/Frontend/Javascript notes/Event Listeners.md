@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [[JavaScript]]
+Tags: [JavaScript](3%20-%20Tags/JavaScript.md)
 
 ---
 # Event Listeners
@@ -12,4 +12,4 @@ Tags: [[JavaScript]]
  
 ---
 ## References
-[[Prevent Default Event]]
+[Prevent Default Event](2%20-%20Source%20Material/FrontEnd%20Material/Prevent%20Default%20Event.md)

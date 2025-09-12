@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [[Career]] [[Career Thoughts]] [[Career Goals]] 
+Tags: [Career](3%20-%20Tags/Career.md) [Career Thoughts](3%20-%20Tags/Career%20Thoughts.md) [Career Goals](3%20-%20Tags/Career%20Goals.md) 
 
 ---
 # How to become a better Software Engineer

@@ -3,7 +3,7 @@
 
 Status: #working
 
-Tags: [[Guide]] [[Digital Aid Seattle]]
+Tags: [Guide](3%20-%20Tags/Guide.md) [Digital Aid Seattle](3%20-%20Tags/Digital%20Aid%20Seattle.md)
 
 ---
 # Coda - Guide
@@ -128,7 +128,7 @@ One thing that trips up beginners:
 - The text within a callout can be further customized, including using basic text formatting, adding headings and lists, inserting images, and more.
 ### Relation vs Table field type in  Coda
 In **Coda**, “Relation” and “Table” both appear in the **Column type** menu, but they mean very different things:
- ![[Pasted image 20250811153249.png]]
+ ![Pasted image 20250811153249](2%20-%20Source%20Material/Media%20and%20other%20files/Pasted%20image%2020250811153249.png)
  
  **1. Relation Column Type**
 - A **Relation** column is **linked to another table** (just like Airtable’s linked record field).

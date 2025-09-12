@@ -75,7 +75,7 @@ If learning “REST APIs,” you might:
 2. Distill **one atomic note per idea**, linking back to all relevant sources
     
 3. Use links like:  
-    `[[REST APIs use HTTP methods like GET, POST, PUT, DELETE]]`  
+    `[REST APIs use HTTP methods like GET, POST, PUT, DELETE](REST%20APIs%20use%20HTTP%20methods%20like%20GET,%20POST,%20PUT,%20DELETE)`  
     → link to atomic notes or source notes
     
 
@@ -153,8 +153,8 @@ Create a **Project Hub Note**:
 - Goal: Build personal branding site with blog
 - Stack: React, Tailwind, Markdown for blog
 - Sections:
-   - Homepage Ideas [[note link]]
-   - Blog Filtering [[note link]]
+   - Homepage Ideas [note link](note%20link)
+   - Blog Filtering [note link](note%20link)
 - To-do: [ ] Setup hosting, [ ] Blog sorting
 ```
 
@@ -164,7 +164,7 @@ Use tags like `#project/portfolio` and link from atomic notes when ideas overlap
 
 ### 🔄 **Linking Project Notes with Learning**
 
-If you create a note on `[[React useEffect explained simply]]`, and you're using `useEffect` in your project, link that concept note from your **project design doc**.
+If you create a note on `[React useEffect explained simply](React%20useEffect%20explained%20simply)`, and you're using `useEffect` in your project, link that concept note from your **project design doc**.
 
 ---
 
@@ -189,11 +189,11 @@ Use:
 
 - Always **link concepts** across notes:
     
-    - `[[State Management in React]]` can link to:
+    - `[State Management in React](State%20Management%20in%20React)` can link to:
         
-        - `[[Redux vs Context API]]`
+        - `[Redux vs Context API](Redux%20vs%20Context%20API)`
             
-        - `[[React useReducer explained]]`
+        - `[React useReducer explained](React%20useReducer%20explained)`
             
 - Use **Maps of Content (MoC)** to group ideas:
     
@@ -252,13 +252,13 @@ Zettelkasten will:
         
 - 🔹 Atomic Notes:
     
-    - `[[React State vs Props]]`
+    - `[React State vs Props](React%20State%20vs%20Props)`
         
-    - `[[React useEffect lifecycle]]`
+    - `[React useEffect lifecycle](React%20useEffect%20lifecycle)`
         
 - 💡 Prompt Note:
     
-    - `[[Prompt: Debug a React useEffect memory leak]]`
+    - `[Prompt: Debug a React useEffect memory leak](Prompt:%20Debug%20a%20React%20useEffect%20memory%20leak)`
         
 - 🗺️ MoC:
     
@@ -270,4 +270,4 @@ Zettelkasten will:
 If you'd like, I can help you set up a **starter Zettelkasten folder structure** in Obsidian, Notion, or your preferred tool. Would that help?
 ---
 ## References
-[[Introduction to the Zettelkasten Method]] [[1 - Zettelkasten Guide]]
+[Introduction to the Zettelkasten Method](2%20-%20Source%20Material/Articles/Introduction%20to%20the%20Zettelkasten%20Method.md) [1 - Zettelkasten Guide](6%20-%20Main%20notes/1%20-%20Zettelkasten%20Guide.md)

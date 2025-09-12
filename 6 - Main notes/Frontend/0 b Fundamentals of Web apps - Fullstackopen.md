@@ -20,7 +20,7 @@ Tags:
 - When you reload a web page, the console typically shows **two main HTTP GET events**:
     1. The browser fetches the contents of the page (e.g., `https://studies.cs.helsinki.fi/exampleapp`) from the server.
     2. The browser downloads associated images, such as `kuva.png`.
-![[Pasted image 20250708152526.png]]
+![Pasted image 20250708152526](2%20-%20Source%20Material/Media%20and%20other%20files/Pasted%20image%2020250708152526.png)
 - **Request Details (for page content)**:
     - The browser uses the **GET method** to request the address.
     - A **Status code 200** indicates that the request was successful.
@@ -35,7 +35,7 @@ Tags:
     - Because an `img` tag is present in the HTML, the browser performs a **second HTTP GET request** to fetch the image (e.g., `kuva.png`) from the server.
     - This request is made to the image's specific address (e.g., `https://studies.cs.helsinki.fi/exampleapp/kuva.png`).
     - The response headers for the image tell the browser its size (e.g., 89350 bytes) and its **Content-type** (e.g., `image/png`), enabling correct rendering of the image.
-![[7m.png]]
+![7m](2%20-%20Source%20Material/Media%20and%20other%20files/7m.png)
 - **Sequence of Events**:
     - A sequence diagram visually represents the communication flow, with time moving from top to bottom.
     - Initially, the browser sends an **HTTP GET request for the HTML code of the page**.
@@ -169,11 +169,11 @@ Oftentimes, full-stack developers must also have enough configuration and admini
 
 ---
 ## References
-[^2]:  [[Traditional or Old school web applications]]
-[^3]:  [[Running application logic in browser]]
-[^5]: [[XMLHttpRequest() - grandfather of AJAX]]
-[^6]: [[onreadystatechange - XMLHttpRequest() event handler]]
-[^7]: [[What is DOM, structure and navigation - Javascript]]
-[^8]: [[HTTP - Fundamentals]]
-[^9]: [[Single Page Application]]
-[^10]: [[What does Full Stack Web development mean]]
+[^2]:  [Traditional or Old school web applications](6%20-%20Main%20notes/Frontend/Javascript%20notes/Traditional%20or%20Old%20school%20web%20applications.md)
+[^3]:  [Running application logic in browser](6%20-%20Main%20notes/Frontend/Javascript%20notes/Running%20application%20logic%20in%20browser.md)
+[^5]: [XMLHttpRequest() - grandfather of AJAX](6%20-%20Main%20notes/Frontend/Javascript%20notes/XMLHttpRequest()%20-%20grandfather%20of%20AJAX.md)
+[^6]: [onreadystatechange - XMLHttpRequest() event handler](6%20-%20Main%20notes/Frontend/Javascript%20notes/onreadystatechange%20-%20XMLHttpRequest()%20event%20handler.md)
+[^7]: [What is DOM, structure and navigation - Javascript](6%20-%20Main%20notes/Frontend/Javascript%20notes/What%20is%20DOM,%20structure%20and%20navigation%20-%20Javascript.md)
+[^8]: [HTTP - Fundamentals](6%20-%20Main%20notes/Frontend/HTTP%20-%20Fundamentals.md)
+[^9]: [Single Page Application](6%20-%20Main%20notes/Frontend/Single%20Page%20Application.md)
+[^10]: [What does Full Stack Web development mean](6%20-%20Main%20notes/Frontend/Javascript%20notes/What%20does%20Full%20Stack%20Web%20development%20mean.md)

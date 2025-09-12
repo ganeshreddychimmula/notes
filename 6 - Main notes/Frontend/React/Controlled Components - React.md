@@ -242,10 +242,10 @@ export default function Main() {
 }
 
 ```
-![[Pasted image 20250702191627.png]]
+![Pasted image 20250702191627](2%20-%20Source%20Material/Media%20and%20other%20files/Pasted%20image%2020250702191627.png)
 
 
 ---
 ## References
 
-[^1]: [[Forms - React]]
+[^1]: [Forms - React](6%20-%20Main%20notes/Frontend/React/Forms%20-%20React.md)

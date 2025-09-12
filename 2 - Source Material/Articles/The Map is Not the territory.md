@@ -3,7 +3,7 @@
 
 Status: #ReadAgain #Comeback 
 
-Tags: [[Thinking]]
+Tags: [Thinking](3%20-%20Tags/Thinking.md)
 
 ---
 # The Map is Not the territory

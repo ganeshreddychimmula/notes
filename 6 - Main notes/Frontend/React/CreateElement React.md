@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [[../../../3 - Tags/React]] 
+Tags: [React](3%20-%20Tags/React.md) 
 
 ---
 # CreateElement React

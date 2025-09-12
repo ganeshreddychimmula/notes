@@ -179,6 +179,6 @@ function OnlyUsersTable() {
 
 ---
 ## References
-[[How React renders different types of Arrays]]
-[[Map and Keys in React]]
-[[Keys property - React]]
+[How React renders different types of Arrays](6%20-%20Main%20notes/Frontend/React/How%20React%20renders%20different%20types%20of%20Arrays.md)
+[Map and Keys in React](6%20-%20Main%20notes/Frontend/React/Map%20and%20Keys%20in%20React.md)
+[Keys property - React](6%20-%20Main%20notes/Frontend/React/Keys%20property%20-%20React.md)

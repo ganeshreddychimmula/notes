@@ -3,7 +3,7 @@
 
 Status: #Comeback #ReadLater 
 
-Tags: [[Best Practices]]
+Tags: [Best Practices](3%20-%20Tags/Best%20Practices.md)
 
 ---
 # How to Make Things Happen
@@ -185,4 +185,4 @@ Being savvy means you are looking for, and willing to take, the smarter route. T
 
 ---
 ## References
-[[../../6 - Main notes/How to Make Things Happen in Life]]
+[How to Make Things Happen in Life](6%20-%20Main%20notes/How%20to%20Make%20Things%20Happen%20in%20Life.md)

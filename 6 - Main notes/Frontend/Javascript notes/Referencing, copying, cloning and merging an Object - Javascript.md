@@ -299,7 +299,7 @@ Tags:
                         func: () => console.log('hello'),
                         sym: Symbol('id'),
                         undef: undefined,
-                        map: new Map([[1, 'one']])
+                        map: new Map([1, 'one'](1,%20'one'))
                     };
                     const deepCopyBroken = JSON.parse(JSON.stringify(complexObj));
                     
@@ -332,7 +332,7 @@ Tags:
             a: 1,
             b: { c: 2 },
             d: new Date(),
-            e: new Map([[1, 'one']]),
+            e: new Map([1, 'one'](1,%20'one')),
             f: new Set([1, 2])
         };
         const deepCopy = structuredClone(obj);
@@ -376,7 +376,7 @@ Tags:
             a: 1,
             b: { c: 2 },
             d: new Date(),
-            e: new Map([[1, 'one']]),
+            e: new Map([1, 'one'](1,%20'one')),
             f: () => console.log('hello'),
             g: null
         };

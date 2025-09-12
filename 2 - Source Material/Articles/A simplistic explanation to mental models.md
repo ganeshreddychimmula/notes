@@ -3,7 +3,7 @@
 
 Status: #Comeback #ReadAgain 
 
-Tags: [[Thinking]]
+Tags: [Thinking](3%20-%20Tags/Thinking.md)
 
 ---
 # A simplistic explanation to mental models
@@ -45,4 +45,4 @@ In essence, mental models are the conceptual frameworks we use to navigate and m
 
 ---
 ## References
-[[The Map is Not the territory]]
+[The Map is Not the territory](2%20-%20Source%20Material/Articles/The%20Map%20is%20Not%20the%20territory.md)

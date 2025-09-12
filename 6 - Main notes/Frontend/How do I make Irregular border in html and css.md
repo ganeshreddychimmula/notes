@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [[Css Tricks]] [[CSS]]
+Tags: [Css Tricks](3%20-%20Tags/Css%20Tricks.md) [CSS](3%20-%20Tags/CSS.md)
 
 ---
 # How do I make Irregular border in html and Css

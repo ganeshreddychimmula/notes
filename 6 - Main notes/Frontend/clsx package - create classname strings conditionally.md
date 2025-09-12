@@ -3,7 +3,7 @@
 
 Status: #ReadLater 
 
-Tags: [[JavaScript]] [[packages]]
+Tags: [JavaScript](3%20-%20Tags/JavaScript.md) [packages](packages)
 
 ---
 # clsx package - create classname strings conditionally

@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [[JavaScript]]
+Tags: [JavaScript](3%20-%20Tags/JavaScript.md)
 
 ---
 # Event delegation - JavaScript
@@ -119,7 +119,7 @@ document.getElementById("menu").addEventListener("click", function (e) {
     
 
 ---
-![[ChatGPT Image Jul 7, 2025, 06_21_47 PM.png]]
+![ChatGPT Image Jul 7, 2025, 06_21_47 PM](2%20-%20Source%20Material/Media%20and%20other%20files/ChatGPT%20Image%20Jul%207,%202025,%2006_21_47%20PM.png)
 
 
 ---

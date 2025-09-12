@@ -109,5 +109,5 @@ In essence,
 
 ---
 ## References
-[^1]: [[Compound components - React]]
-[^2]: [[prop injection - React]] 
+[^1]: [Compound components - React](6%20-%20Main%20notes/Frontend/React/Compound%20components%20-%20React.md)
+[^2]: [prop injection - React](prop%20injection%20-%20React) 

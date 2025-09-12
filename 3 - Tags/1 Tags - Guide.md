@@ -1,8 +1,8 @@
 This folder is crucial for **navigating your knowledge network**, especially as it grows in size, helping to prevent clutter.
--  **Tags**: Stores tags as empty notes, which is the preferred method over traditional hashtags. To apply a tag, you create a link to its note (e.g., `[[humility]]`). Clicking the grayed-out link creates the note, which is then moved to this "Tags" folder, allowing infinite reuse. Tags should be neither too vague nor too precise, and ideally relate to your personal interests, not common categories. Keep the number of tags per note low, ideally below four or five.
+-  **Tags**: Stores tags as empty notes, which is the preferred method over traditional hashtags. To apply a tag, you create a link to its note (e.g., `[humility](humility)`). Clicking the grayed-out link creates the note, which is then moved to this "Tags" folder, allowing infinite reuse. Tags should be neither too vague nor too precise, and ideally relate to your personal interests, not common categories. Keep the number of tags per note low, ideally below four or five.
 -  **Creation of Tags**:
 	- Rather than using traditional hashtags directly within notes, the preferred method is to store **each tag as an empty note** within this "Tags" folder.
-	- To apply a tag to a note, you **create a link to this empty tag note** using double square brackets (e.g., `[[humility]]`).
+	- To apply a tag to a note, you **create a link to this empty tag note** using double square brackets (e.g., `[humility](humility)`).
 	- When you first create such a link, it will appear grayed out if the tag note doesn't exist. Clicking on this grayed-out link automatically **creates the tag note**. You then **move this newly created tag note into your "Tags" folder**. Once created and moved, this tag note can be **infinitely reused** across many other notes.
 -  **Pointers for Effective Tagging**:
 	- **Avoid vague tags**: Tags like "self-improvement" are too broad and unhelpful, as they could encompass many disparate topics.

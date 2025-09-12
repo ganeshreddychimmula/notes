@@ -3,7 +3,7 @@
 
 Status: #ReadLater 
 
-Tags: [[Read later]] [[../../../3 - Tags/React]]
+Tags: [Read later](3%20-%20Tags/Read%20later.md) [React](3%20-%20Tags/React.md)
 
 ---
 # const vs let - when to use which

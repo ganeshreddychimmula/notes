@@ -146,5 +146,5 @@ Use compound components with dot syntax when:
 
 ---
 ## References
-[^1]: [[Render props - React]]
-[^2]: [[Headless Components - React]]
+[^1]: [Render props - React](6%20-%20Main%20notes/Frontend/React/Render%20props%20-%20React.md)
+[^2]: [Headless Components - React](6%20-%20Main%20notes/Frontend/React/Headless%20Components%20-%20React.md)

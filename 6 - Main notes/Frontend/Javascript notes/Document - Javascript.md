@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [[JavaScript]]
+Tags: [JavaScript](3%20-%20Tags/JavaScript.md)
 
 ---
 # Document - Javascript
@@ -69,4 +69,4 @@ Tags: [[JavaScript]]
 
 ---
 ## References
-[^1]: [[What is DOM, structure and navigation - Javascript]]
+[^1]: [What is DOM, structure and navigation - Javascript](6%20-%20Main%20notes/Frontend/Javascript%20notes/What%20is%20DOM,%20structure%20and%20navigation%20-%20Javascript.md)

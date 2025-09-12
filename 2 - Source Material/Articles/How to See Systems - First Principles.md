@@ -9,7 +9,7 @@ Tags:
 # How to See Systems - First Principles
 https://neilkakkar.com/How-to-see-Systems-in-everyday-life.html
 
-**Systems theory** is the [transdisciplinary](https://en.wikipedia.org/wiki/Transdisciplinarity "Transdisciplinarity")[[1]](https://en.wikipedia.org/wiki/Systems_theory#cite_note-1) study of [systems](https://en.wikipedia.org/wiki/System "System"), i.e. cohesive groups of interrelated, interdependent components that can be [natural](https://en.wikipedia.org/wiki/Natural "Natural") or [artificial](https://en.wikipedia.org/wiki/Artificial "Artificial"). Every system has causal boundaries, is influenced by its context, defined by its structure, function and role, and expressed through its relations with other systems. A system is "more than the sum of its parts" when it expresses [synergy](https://en.wikipedia.org/wiki/Synergy "Synergy") or [emergent behavior](https://en.wikipedia.org/wiki/Emergent_behavior "Emergent behavior").[[2]](https://en.wikipedia.org/wiki/Systems_theory#cite_note-2)
+**Systems theory** is the [transdisciplinary](https://en.wikipedia.org/wiki/Transdisciplinarity "Transdisciplinarity")[1](1)(https://en.wikipedia.org/wiki/Systems_theory#cite_note-1) study of [systems](https://en.wikipedia.org/wiki/System "System"), i.e. cohesive groups of interrelated, interdependent components that can be [natural](https://en.wikipedia.org/wiki/Natural "Natural") or [artificial](https://en.wikipedia.org/wiki/Artificial "Artificial"). Every system has causal boundaries, is influenced by its context, defined by its structure, function and role, and expressed through its relations with other systems. A system is "more than the sum of its parts" when it expresses [synergy](https://en.wikipedia.org/wiki/Synergy "Synergy") or [emergent behavior](https://en.wikipedia.org/wiki/Emergent_behavior "Emergent behavior").[2](2)(https://en.wikipedia.org/wiki/Systems_theory#cite_note-2)
 
 Since almost everything is a system, we can leverage concepts from System Theory to solve almost any problem.
 
@@ -78,4 +78,4 @@ To end, here’s something to think about, linking feedback loops and the 80/20 
 
 ---
 ## References
-[[Thinking in Systems by Donella H. Meadows (Author), Diana Wright (Editor)]]
+[Thinking in Systems by Donella H. Meadows (Author), Diana Wright (Editor)](2%20-%20Source%20Material/Books/Thinking%20in%20Systems%20by%20Donella%20H.%20Meadows%20(Author),%20Diana%20Wright%20(Editor).md)

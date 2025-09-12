@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [[Guide]] 
+Tags: [Guide](3%20-%20Tags/Guide.md) 
 
 
 # Markdown Guide
@@ -49,4 +49,4 @@ These elements extend the basic syntax by adding additional features. Not all Ma
 | [Superscript](https://www.markdownguide.org/extended-syntax/#superscript)                                                                                                           | `X^2^`                                                                                                             |
 
 ## References
-[[Mermaid Syntax - Guide]]
+[Mermaid Syntax - Guide](2%20-%20Source%20Material/Guide/Mermaid%20Syntax%20-%20Guide.md)

@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [[../../../3 - Tags/React]] [[React Router]]
+Tags: [React](3%20-%20Tags/React.md) [React Router](3%20-%20Tags/React%20Router.md)
 
 ---
 # React Router 6
@@ -803,7 +803,7 @@ Nested Routes, Route parameters
 - Route params? why it is useful?  
 -  useParams() -> to get params
 - nested rotes contain shared UI
-![[Pasted image 20250823162521.png]]
+![Pasted image 20250823162521](2%20-%20Source%20Material/Media%20and%20other%20files/Pasted%20image%2020250823162521.png)
 
 Layout Routes
 - <Layout />
@@ -922,14 +922,14 @@ catch all route
 - In the new version, it doesn't matter if you put it first or last.
 
 Happy path vs sad path
-![[Pasted image 20250827151302.png]]
-![[Pasted image 20250827151235.png]]
+![Pasted image 20250827151302](2%20-%20Source%20Material/Media%20and%20other%20files/Pasted%20image%2020250827151302.png)
+![Pasted image 20250827151235](2%20-%20Source%20Material/Media%20and%20other%20files/Pasted%20image%2020250827151235.png)
 
 ---
 ### Protected routes
 
-![[Pasted image 20250827172412.png]]
-![[Pasted image 20250827172439.png]]
+![Pasted image 20250827172412](2%20-%20Source%20Material/Media%20and%20other%20files/Pasted%20image%2020250827172412.png)
+![Pasted image 20250827172439](2%20-%20Source%20Material/Media%20and%20other%20files/Pasted%20image%2020250827172439.png)
 - `<Navigate>` 
 ```jsx
 import React from "react"
@@ -1054,13 +1054,13 @@ https://reactrouter.com/6.30.1/hooks/use-location#properties
 
 ---
 ## References
-[[Single Page Vs multipage Applications]]
-[[Deploy to Netlifly]]
-[[Mirage JS]]
-[[Using fetch() in React]]
-[[Loaders and actions - React Router]]
-[^1]: [[React Router 6 vs 7]]
-[^2]: [[How to pick a Router - React Router 6]]
+[Single Page Vs multipage Applications](6%20-%20Main%20notes/Frontend/Single%20Page%20Vs%20multipage%20Applications.md)
+[Deploy to Netlifly](6%20-%20Main%20notes/Frontend/Deploy%20to%20Netlifly.md)
+[Mirage JS](6%20-%20Main%20notes/Mirage%20JS.md)
+[Using fetch() in React](6%20-%20Main%20notes/Frontend/React/Using%20fetch()%20in%20React.md)
+[Loaders and actions - React Router](Loaders%20and%20actions%20-%20React%20Router)
+[^1]: [React Router 6 vs 7](6%20-%20Main%20notes/Frontend/React/React%20Router%206%20vs%207.md)
+[^2]: [How to pick a Router - React Router 6](6%20-%20Main%20notes/Frontend/React/How%20to%20pick%20a%20Router%20-%20React%20Router%206.md)
 
 
 

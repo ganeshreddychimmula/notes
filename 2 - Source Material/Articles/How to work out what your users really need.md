@@ -3,7 +3,7 @@
 
 Status: #Comeback  #ReadLater 
 
-Tags: [[Best Practices]]
+Tags: [Best Practices](3%20-%20Tags/Best%20Practices.md)
 
 ---
 # How to work out what your users really need

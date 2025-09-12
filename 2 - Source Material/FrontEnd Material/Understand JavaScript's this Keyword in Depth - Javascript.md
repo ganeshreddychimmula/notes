@@ -17,7 +17,7 @@ Tags:
 	- console.log(node === module.exports) => true
 
 ### this in function calls
-![[Pasted image 20250715133856.png]]
+![Pasted image 20250715133856](2%20-%20Source%20Material/Media%20and%20other%20files/Pasted%20image%2020250715133856.png)
 
 Result: (without strict mode)
 undefined
@@ -25,7 +25,7 @@ Jane // global.firstName
 Doe //global.lastName
 
 Result: (use Strict)
-![[Pasted image 20250715134635.png]]
+![Pasted image 20250715134635](2%20-%20Source%20Material/Media%20and%20other%20files/Pasted%20image%2020250715134635.png)
 - Helps in avoiding accidental creation of global variables
 
 

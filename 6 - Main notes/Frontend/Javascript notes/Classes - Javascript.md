@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [[JavaScript]]
+Tags: [JavaScript](3%20-%20Tags/JavaScript.md)
 
 ---
 ### Classes
@@ -67,7 +67,7 @@ user.sayHi(); // Output: Hi, my name is John
 ````
 
 The result is same. Still, there are important *differences*:
-- First, a function created by class is labelled by a special internal property `[[IsClassConstructor]]`.
+- First, a function created by class is labelled by a special internal property `[IsClassConstructor](IsClassConstructor)`.
     - ↪️ A class should be called with `new` unlike regular functions.
         - **Explanation:** If you try to call a class constructor without `new` (e.g., `MyClass()`), it will throw a `TypeError`. Regular functions, when called without `new`, have `this` bound to the global object (or `undefined` in strict mode). This internal property enforces the intended use of classes.
         - **Example:**
@@ -205,13 +205,13 @@ classDiagram
 
     Parent --> ParentPrototype : .prototype
     Child --> ChildPrototype : .prototype
-    ChildPrototype --|> ParentPrototype : __proto__ or \[[prototype]]
+    ChildPrototype --|> ParentPrototype : __proto__ or \[prototype](prototype)
 
     class Instance {
         +name: "Ganesh"
     }
      
-    ChildPrototype <-- Instance : new Object().prototype or \[[Prototype]]
+    ChildPrototype <-- Instance : new Object().prototype or \[Prototype](Prototype)
 ```
 
 - ↪️ `extends` allows any expression after it.
@@ -313,7 +313,7 @@ constructor(...args) {
 Constructor in inheriting classes must call `super()` and (1) do it before using `this`.
 - **Explanation:** This is a strict rule in JavaScript. In a derived class's constructor, you _must_ call `super()` first. This is because the `super()` call is responsible for initializing `this` in the derived class by invoking the parent constructor. If you try to use `this` before `super()`, you'll get a `ReferenceError`.    
 
-In JS, a derived constructor has an inherent property `[[ConstructKind]]`: "derived".
+In JS, a derived constructor has an inherent property `[ConstructKind](ConstructKind)`: "derived".
 
 That label affects its behavior with new:
 - When a regular function is executed with `new`, it creates an empty object & assigns `this` to it.
@@ -357,9 +357,9 @@ The parent constructor will always use its own field value, not the overridden o
         - This demonstrates that when a method is called on `this` within the parent constructor (which is invoked by `super()`), if that method is overridden in the derived class, the _derived class's version_ of the method is used. The original note's wording "The parent constructor will always use its own field value, not the overridden one (derived field)" might be interpreted differently, so the example clarifies the actual behavior for methods. For _properties_ directly assigned in the constructor, the parent's assignment will be overridden by the child's if they share the same name.
             
 
-Methods remember their class/object in the internal `[[HomeObject]]` property.
+Methods remember their class/object in the internal `[HomeObject](HomeObject)` property.
 - ↪️ That's how `super` resolves parent methods.
-    - **Explanation:** The `[[HomeObject]]` internal property points to the object that holds the method. When `super.method()` is called, JavaScript uses `[[HomeObject]]` to find the prototype of the current method's class, and then looks up the method on _that_ prototype, effectively finding the parent's version.
+    - **Explanation:** The `[HomeObject](HomeObject)` internal property points to the object that holds the method. When `super.method()` is called, JavaScript uses `[HomeObject](HomeObject)` to find the prototype of the current method's class, and then looks up the method on _that_ prototype, effectively finding the parent's version.
 
 ### Static methods
 
@@ -477,4 +477,4 @@ Class fields is a syntax that allows to add any properties.
         ```
 ---
 ## References
-[[Prototype - Javascript]]
+[Prototype - Javascript](6%20-%20Main%20notes/Frontend/Javascript%20notes/Prototype%20-%20Javascript.md)

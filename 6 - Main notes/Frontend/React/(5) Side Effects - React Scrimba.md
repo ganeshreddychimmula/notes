@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [[../../../3 - Tags/React]]
+Tags: [React](3%20-%20Tags/React.md)
 
 ---
 # (5) Side Effects - React
@@ -18,5 +18,5 @@ Tags: [[../../../3 - Tags/React]]
 
 ---
 ## References
-[[Controlled Components - React]]
-[[useEffect - side effects in React]]
+[Controlled Components - React](6%20-%20Main%20notes/Frontend/React/Controlled%20Components%20-%20React.md)
+[useEffect - side effects in React](6%20-%20Main%20notes/Frontend/React/useEffect%20-%20side%20effects%20in%20React.md)

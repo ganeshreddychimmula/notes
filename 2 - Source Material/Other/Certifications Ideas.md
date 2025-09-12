@@ -3,7 +3,7 @@
 
 Status: #ReadLater 
 
-Tags: [[Career]] [[Career Thoughts]] [[Idea]]
+Tags: [Career](3%20-%20Tags/Career.md) [Career Thoughts](3%20-%20Tags/Career%20Thoughts.md) [Idea](3%20-%20Tags/Idea.md)
  
 ---
 # Certifications Ideas

@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [[../../../3 - Tags/React]]
+Tags: [React](3%20-%20Tags/React.md)
 
 ---
 # React `useRef()` - Deep Dive and Related Concepts
@@ -270,4 +270,4 @@ let secondsPassed = (now - startTime) / 1000;
 
 ---
 ## References
-[^1]: [[Why not to read or write refs during rendering - React]]
+[^1]: [Why not to read or write refs during rendering - React](6%20-%20Main%20notes/Frontend/React/Why%20not%20to%20read%20or%20write%20refs%20during%20rendering%20-%20React.md)

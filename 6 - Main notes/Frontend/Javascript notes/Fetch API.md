@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [[JavaScript]]
+Tags: [JavaScript](3%20-%20Tags/JavaScript.md)
 
 ---
 # Fetch API
@@ -487,4 +487,4 @@ robustFetch(url, {})
 - Body is single‑use; clone if needed; stream when large.
 ---
 ## References
-[[CORS (Cross-Origin Resource Sharing)]]
+[CORS (Cross-Origin Resource Sharing)](6%20-%20Main%20notes/Frontend/CORS%20(Cross-Origin%20Resource%20Sharing).md)

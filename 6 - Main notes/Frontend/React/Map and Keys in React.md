@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [[JavaScript]]
+Tags: [JavaScript](3%20-%20Tags/JavaScript.md)
 
 ---
 # Map and Keys in React
@@ -104,4 +104,4 @@ function UserList({ users }) {
 Let me know if you want me to update your canvas with a `.map()` example!
 ---
 ## References
-[[Keys property - React]]
+[Keys property - React](6%20-%20Main%20notes/Frontend/React/Keys%20property%20-%20React.md)

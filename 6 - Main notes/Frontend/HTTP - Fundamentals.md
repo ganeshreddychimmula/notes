@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [[Networking]]
+Tags: [Networking](3%20-%20Tags/Networking.md)
 
 ---
 # HTTP - Fundamentals
@@ -69,7 +69,7 @@ HTTP works through a mechanism called HTTP messages. There are two types of HTTP
 - Request: They are messages sent by clients to the server to trigger an action.
 - Response: They are messages sent to the client by the server in response to the request made by the client.
 ```
-![[Pasted image 20250709142141.png]]
+![Pasted image 20250709142141](2%20-%20Source%20Material/Media%20and%20other%20files/Pasted%20image%2020250709142141.png)
 
 - An HTTP request is composed of:    
     - **Request Line**: Contains the method, URI, and HTTP version (e.g., `GET /index.html HTTP/1.1`).
@@ -202,4 +202,4 @@ For operations like searching, filtering, or any action that **doesn’t modify 
 ---
 
 ## References
- [^1]:  [[Why GET is preferred over the POST method ]]
+ [^1]:  [Why GET is preferred over the POST method ](Why%20GET%20is%20preferred%20over%20the%20POST%20method%20)

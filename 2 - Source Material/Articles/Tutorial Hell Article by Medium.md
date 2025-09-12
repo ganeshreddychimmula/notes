@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [[Read later]] [[Article]]
+Tags: [Read later](3%20-%20Tags/Read%20later.md) [Article](3%20-%20Tags/Article.md)
 
 ---
 # Tutorial Hell Article by Medium

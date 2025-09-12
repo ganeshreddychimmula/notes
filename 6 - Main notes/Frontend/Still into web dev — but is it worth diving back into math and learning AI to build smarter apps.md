@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [[Ai]] [[ML]] [[Resources]] [[Career]] [[Posts related to career]]
+Tags: [AI](3%20-%20Tags/AI.md) [ML](3%20-%20Tags/ML.md) [Resources](3%20-%20Tags/Resources.md) [Career](3%20-%20Tags/Career.md) [Posts related to career](2%20-%20Source%20Material/Social%20Media/Posts%20related%20to%20career.md)
 
 ---
 # Still into web dev — but is it worth diving back into math and learning AI to build smarter apps

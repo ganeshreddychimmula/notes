@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [[../../../3 - Tags/React]]
+Tags: [React](3%20-%20Tags/React.md)
 
 ---
 # React State - Scrimba
@@ -205,13 +205,13 @@ You have 2 options for what you can pass in to a state setter function (e.g. `se
 
 ---
 ## References
-[[Props vs State - React]]
-[[How react state controls UI - Re-render Cycle Explained]]
-[[UseState - React]]
-[[Thumb rule to Update state based on previous State - React]]
-[[Lifting State up in React]]
-[[If you can avoid State, avoid State - React]]
-[[Event Listeners]]
-[[Responding to Events - React]]
-[[Choosing state structure - React]]
-[[Queueing a Series of State Updates - React]]
+[Props vs State - React](6%20-%20Main%20notes/Frontend/React/Props%20vs%20State%20-%20React.md)
+[How react state controls UI - Re-render Cycle Explained](6%20-%20Main%20notes/Frontend/React/How%20react%20state%20controls%20UI%20-%20Re-render%20Cycle%20Explained.md)
+[UseState - React](6%20-%20Main%20notes/Frontend/React/UseState%20-%20React.md)
+[Thumb rule to Update state based on previous State - React](2%20-%20Source%20Material/FrontEnd%20Material/React/Thumb%20rule%20to%20Update%20state%20based%20on%20previous%20State%20-%20React.md)
+[Lifting State up in React](6%20-%20Main%20notes/Frontend/React/Lifting%20State%20up%20in%20React.md)
+[If you can avoid State, avoid State - React](6%20-%20Main%20notes/Frontend/React/If%20you%20can%20avoid%20State,%20avoid%20State%20-%20React.md)
+[Event Listeners](6%20-%20Main%20notes/Frontend/Javascript%20notes/Event%20Listeners.md)
+[Responding to Events - React](2%20-%20Source%20Material/FrontEnd%20Material/React/Responding%20to%20Events%20-%20React.md)
+[Choosing state structure - React](6%20-%20Main%20notes/Frontend/React/Choosing%20state%20structure%20-%20React.md)
+[Queueing a Series of State Updates - React](6%20-%20Main%20notes/Frontend/React/Queueing%20a%20Series%20of%20State%20Updates%20-%20React.md)

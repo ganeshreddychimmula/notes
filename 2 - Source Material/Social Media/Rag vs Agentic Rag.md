@@ -3,7 +3,7 @@
 
 Status: #ReadLater
 
-Tags: [[Read later]] [[AI]] [[ML]] [[Career]]
+Tags: [Read later](3%20-%20Tags/Read%20later.md) [AI](3%20-%20Tags/AI.md) [ML](3%20-%20Tags/ML.md) [Career](3%20-%20Tags/Career.md)
 
 ---
 # Rag vs Agentic Rag

@@ -217,4 +217,4 @@ Even these are batched automatically unless you turn off concurrent features.
 
 ---
 ## References
-[[Queueing a Series of State Updates - React]]
+[Queueing a Series of State Updates - React](6%20-%20Main%20notes/Frontend/React/Queueing%20a%20Series%20of%20State%20Updates%20-%20React.md)

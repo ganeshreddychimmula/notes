@@ -3,7 +3,7 @@
 
 Status: #ReadLater 
 
-Tags: [[Career]]  [[Courses]] [[Come Back]]
+Tags: [Career](3%20-%20Tags/Career.md)  [Courses](Courses) [Come Back](3%20-%20Tags/Come%20Back.md)
 
 ---
 # Courses I want to Explore

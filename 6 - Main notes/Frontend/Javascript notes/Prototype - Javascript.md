@@ -15,9 +15,9 @@ Tags:
         
     - **Explanation:** Instead of classes, JavaScript uses prototypes for inheritance. Objects can inherit properties and methods directly from other objects. This creates a "chain" where if a property isn't found on an object, JavaScript looks it up on that object's prototype, then that prototype's prototype, and so on, until it finds the property or reaches `null`.
         
-- `[[Prototype]]`
+- `[Prototype](Prototype)`
     
-    - In JS, objects have a hidden property `[[Prototype]]` that is either `null` or references another object.
+    - In JS, objects have a hidden property `[Prototype](Prototype)` that is either `null` or references another object.
         
     - ↪️ That object is called a "prototype".
         
@@ -25,7 +25,7 @@ Tags:
     ```
     graph LR
         A[myObject] --> B[myObject's prototype]
-        A -- [[Prototype]] --> B
+        A -- [Prototype](Prototype) --> B
         B --> C[myObject's prototype's prototype]
         C --> D[null]
     ```
@@ -49,14 +49,14 @@ Tags:
         };
         
         // Set animal as the prototype of rabbit
-        Object.setPrototypeOf(rabbit, animal); // Modern way to set [[Prototype]]
+        Object.setPrototypeOf(rabbit, animal); // Modern way to set [Prototype](Prototype)
         
         console.log(rabbit.eats); // Output: true (inherited from animal)
         rabbit.walk();            // Output: Animal walks. (inherited method)
         console.log(rabbit.jumps); // Output: true (own property)
         ```
         
-- The property `[[Prototype]]` is internal and hidden, but there are many ways to set it.
+- The property `[Prototype](Prototype)` is internal and hidden, but there are many ways to set it.
     
 - `__proto__`
     
@@ -66,7 +66,7 @@ Tags:
             
         - ↪️ `obj2` prototypically inherits `obj1`.
             
-    - **Explanation:** `__proto__` is a legacy (but still widely supported) getter/setter for the `[[Prototype]]` internal property. While convenient for examples, `Object.setPrototypeOf()` or `Object.create()` are generally preferred for setting prototypes in production code.
+    - **Explanation:** `__proto__` is a legacy (but still widely supported) getter/setter for the `[Prototype](Prototype)` internal property. While convenient for examples, `Object.setPrototypeOf()` or `Object.create()` are generally preferred for setting prototypes in production code.
         
     - **Example:**
         
@@ -118,11 +118,11 @@ Tags:
             console.log(Object.getPrototypeOf(obj)); // Output: [Object: null prototype] {}
             ```
             
-- There may be only one `[[prototype]]`. An object may not prototypically inherit from two other objects.
+- There may be only one `[prototype](prototype)`. An object may not prototypically inherit from two other objects.
     
     - **Explanation:** JavaScript's prototypal inheritance is a single-parent inheritance model. An object can only have one direct prototype. However, this prototype can itself have a prototype, forming a chain.
         
-- `__proto__` is getter/setter for `[[prototype]]` (old).
+- `__proto__` is getter/setter for `[prototype](prototype)` (old).
     
     - **Explanation:** It's considered a deprecated feature for direct use in new code, but it's still widely supported by browsers and Node.js. `Object.getPrototypeOf()` and `Object.setPrototypeOf()` are the modern alternatives.
         

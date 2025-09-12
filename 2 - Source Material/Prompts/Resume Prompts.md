@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [[Prompts]] [[Resume]]
+Tags: [Prompts](3%20-%20Tags/Prompts.md) [Resume](3%20-%20Tags/Resume.md)
 
 ---
 # Resume Prompts

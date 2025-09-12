@@ -3,13 +3,13 @@
 
 Status:
 
-Tags: [[Career]] [[Career Thoughts]] [[Industry Trends]] [[Career Goals]] [[Job Market]] 
+Tags: [Career](3%20-%20Tags/Career.md) [Career Thoughts](3%20-%20Tags/Career%20Thoughts.md) [Industry Trends](3%20-%20Tags/Industry%20Trends.md) [Career Goals](3%20-%20Tags/Career%20Goals.md) [Job Market](3%20-%20Tags/Job%20Market.md) 
 
 ---
 # Junior Dev Hiring Paradox
 [Linkedin Src](https://www.linkedin.com/posts/madsbrodt_software-development-especially-front-end-activity-7342791320341467136-hQgA?utm_source=share&utm_medium=member_desktop&rcm=ACoAADOz-fYByYqb3eBq2dIs4DpRDuU3TGKgwc4)
 
-![[Pasted image 20250623205449.png]]
+![Pasted image 20250623205449](2%20-%20Source%20Material/Media%20and%20other%20files/Pasted%20image%2020250623205449.png)
 - Job opportunities in Front End seem to be diminishing. 
 -  _High demand for senior devs, but difficulty for juniors to get hired._
 - _Companies hesitate to hire juniors due to high supply and potential AI impact._

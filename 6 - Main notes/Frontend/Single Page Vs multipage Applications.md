@@ -94,4 +94,4 @@ An **MPA** loads a **new HTML page from the server for each route** or URL. Ever
 
 ---
 ## References
-[[Client Side Routing - Frontend]]
+[Client Side Routing - Frontend](6%20-%20Main%20notes/Frontend/Client%20Side%20Routing%20-%20Frontend.md)

@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [[FrontEnd]] [[JavaScript]]
+Tags: [FrontEnd](3%20-%20Tags/FrontEnd.md) [JavaScript](3%20-%20Tags/JavaScript.md)
 
 ---
 # Library vs Framework

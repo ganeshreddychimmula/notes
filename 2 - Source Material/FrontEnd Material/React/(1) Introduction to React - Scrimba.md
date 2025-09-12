@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [[../../../3 - Tags/React]]
+Tags: [React](3%20-%20Tags/React.md)
 
 ---
 # Introduction to React
@@ -31,21 +31,21 @@ Why?
 4. Custom Components
 5. Styling
 
-![[Pasted image 20250707135643.png]]
+![Pasted image 20250707135643](2%20-%20Source%20Material/Media%20and%20other%20files/Pasted%20image%2020250707135643.png)
 
 ## Common Challenges in React applications and approaches
-[[Common Challenges in React apps and approaches]]
+[Common Challenges in React apps and approaches](6%20-%20Main%20notes/Frontend/React/Common%20Challenges%20in%20React%20apps%20and%20approaches.md)
 
 ---
 ## References
 
-[[FrontEnd Planning]]
-[[Setting Up React Locally with Vite]]
-[[Starting a React project- React Scrimba]]
-[[(3) Data-driven React - Scrimba]]
-[[(4) State in React - Scimba]]
-[[Forms - React]]
-[[Conditional Rendering and Ternary operator in React]]
-[[Inline Styling in React]]
-[[Functional Programming in React]]
-[[Common Challenges in React apps and approaches]]
+[FrontEnd Planning](6%20-%20Main%20notes/Frontend/FrontEnd%20Planning.md)
+[Setting Up React Locally with Vite](2%20-%20Source%20Material/FrontEnd%20Material/React/Setting%20Up%20React%20Locally%20with%20Vite.md)
+[Starting a React project- React Scrimba](2%20-%20Source%20Material/FrontEnd%20Material/React/Starting%20a%20React%20project-%20React%20Scrimba.md)
+[(3) Data-driven React - Scrimba](6%20-%20Main%20notes/Frontend/React/(3)%20Data-driven%20React%20-%20Scrimba.md)
+[(4) State in React - Scimba](6%20-%20Main%20notes/Frontend/React/(4)%20State%20in%20React%20-%20Scimba.md)
+[Forms - React](6%20-%20Main%20notes/Frontend/React/Forms%20-%20React.md)
+[Conditional Rendering and Ternary operator in React](6%20-%20Main%20notes/Frontend/React/Conditional%20Rendering%20and%20Ternary%20operator%20in%20React.md)
+[Inline Styling in React](6%20-%20Main%20notes/Frontend/React/Inline%20Styling%20in%20React.md)
+[Functional Programming in React](6%20-%20Main%20notes/Frontend/React/Functional%20Programming%20in%20React.md)
+[Common Challenges in React apps and approaches](6%20-%20Main%20notes/Frontend/React/Common%20Challenges%20in%20React%20apps%20and%20approaches.md)

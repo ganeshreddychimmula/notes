@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [[Life]]
+Tags: [Life](3%20-%20Tags/Life.md)
 
 ---
 # The Personality Loop

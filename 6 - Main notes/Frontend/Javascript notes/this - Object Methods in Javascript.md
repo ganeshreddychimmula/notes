@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [[JavaScript]]
+Tags: [JavaScript](3%20-%20Tags/JavaScript.md)
 
 ---
 # Object methods and this - Javascript
@@ -156,4 +156,4 @@ Tags: [[JavaScript]]
 
 ---
 ## References
-[[Understand JavaScript's this Keyword in Depth - Javascript ]]
+[Understand JavaScript's this Keyword in Depth - Javascript ](Understand%20JavaScript's%20this%20Keyword%20in%20Depth%20-%20Javascript%20)

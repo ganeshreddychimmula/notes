@@ -108,4 +108,4 @@ function Message({ initialMessage }) {
 
 ---
 ## References
-[[Props - React]]
+[Props - React](6%20-%20Main%20notes/Frontend/React/Props%20-%20React.md)

@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [[JavaScript]]
+Tags: [JavaScript](3%20-%20Tags/JavaScript.md)
 
 ---
 # 1b - Javascript - Fullstackopen
@@ -15,7 +15,7 @@ Tags: [[JavaScript]]
 - It is also possible to write JavaScript code into the Node.js console, which is opened by typing _node_ in the command line, as well as into the browser's developer tool console. [The newest revisions of Chrome handle the newer features of JavaScript pretty well](https://compat-table.github.io/compat-table/es2016plus/) without transpiling the code. Alternatively, you can use a tool like [JS Bin](https://jsbin.com/?js,console).
 
 ### Variables
-[[What is the difference between var, let, and const - JavaScript]]
+[What is the difference between var, let, and const - JavaScript](6%20-%20Main%20notes/Frontend/Javascript%20notes/What%20is%20the%20difference%20between%20var,%20let,%20and%20const%20-%20JavaScript.md)
 In JavaScript there are a few ways to go about defining variables:
 
 ```js
@@ -186,10 +186,10 @@ As mentioned previously, there is no class mechanism in JavaScript like the ones
 
 ---
 ## References
-[^1]: [[What is a Run Time Environment]]
-[^2]: [[Objects - Javascript]]
-[^3]: [[Arrow Function and how it is different from others - Javascript]]
-[^4]: [[Different ways to define or declare Functions]]
-[^5]: [[this - Object Methods in Javascript]]
-[^6]: [[Understand JavaScript's this Keyword in Depth - Javascript ]]
-[^7]: [[Classes - Javascript]]
+[^1]: [What is a Run Time Environment](6%20-%20Main%20notes/What%20is%20a%20Run%20Time%20Environment.md)
+[^2]: [Objects - Javascript](6%20-%20Main%20notes/Frontend/Javascript%20notes/Objects%20-%20Javascript.md)
+[^3]: [Arrow Function and how it is different from others - Javascript](6%20-%20Main%20notes/Frontend/Javascript%20notes/Arrow%20Function%20and%20how%20it%20is%20different%20from%20others%20-%20Javascript.md)
+[^4]: [Different ways to define or declare Functions](6%20-%20Main%20notes/Frontend/Javascript%20notes/Different%20ways%20to%20define%20or%20declare%20Functions.md)
+[^5]: [this - Object Methods in Javascript](6%20-%20Main%20notes/Frontend/Javascript%20notes/this%20-%20Object%20Methods%20in%20Javascript.md)
+[^6]: [Understand JavaScript's this Keyword in Depth - Javascript ](Understand%20JavaScript's%20this%20Keyword%20in%20Depth%20-%20Javascript%20)
+[^7]: [Classes - Javascript](6%20-%20Main%20notes/Frontend/Javascript%20notes/Classes%20-%20Javascript.md)

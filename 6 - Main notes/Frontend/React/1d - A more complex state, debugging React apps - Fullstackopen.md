@@ -228,8 +228,8 @@ At this point, it is worth remembering the old wisdom of [Brian Kerningham](htt
 
 ---
 ## References
-[^1]: [[Why can't I directly modify a component's state - React]]
-[^2]: [[Choosing state structure - React]]
-[^3]: [[How React handles or renders Arrays]]
-[^4]: [[Queueing a Series of State Updates - React]]
-[^5]: [[Why shouldn't we use hooks inside loops or conditions - React]]
+[^1]: [Why can't I directly modify a component's state - React](6%20-%20Main%20notes/Frontend/React/Why%20can't%20I%20directly%20modify%20a%20component's%20state%20-%20React.md)
+[^2]: [Choosing state structure - React](6%20-%20Main%20notes/Frontend/React/Choosing%20state%20structure%20-%20React.md)
+[^3]: [How React handles or renders Arrays](6%20-%20Main%20notes/Frontend/React/How%20React%20handles%20or%20renders%20Arrays.md)
+[^4]: [Queueing a Series of State Updates - React](6%20-%20Main%20notes/Frontend/React/Queueing%20a%20Series%20of%20State%20Updates%20-%20React.md)
+[^5]: [Why shouldn't we use hooks inside loops or conditions - React](6%20-%20Main%20notes/Frontend/React/Why%20shouldn't%20we%20use%20hooks%20inside%20loops%20or%20conditions%20-%20React.md)

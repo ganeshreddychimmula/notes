@@ -4,7 +4,7 @@
 
 Status:
 
-Tags: [[Career]] [[AI]] [[ML]] [[Roadmap]] [[FrontEnd]] [[Resources]]
+Tags: [Career](3%20-%20Tags/Career.md) [AI](3%20-%20Tags/AI.md) [ML](3%20-%20Tags/ML.md) [Roadmap](3%20-%20Tags/Roadmap.md) [FrontEnd](3%20-%20Tags/FrontEnd.md) [Resources](3%20-%20Tags/Resources.md)
 
 ---
 
@@ -67,7 +67,7 @@ Tags: [[Career]] [[AI]] [[ML]] [[Roadmap]] [[FrontEnd]] [[Resources]]
 		- Vector Databases for Embeddings with Pinecone 
 		- Software Engineering Principles in Python 
 		- Developing LLM Applications with Lang Chain  
-2. [[AI Project Ideas]]
+2. [AI Project Ideas](2%20-%20Source%20Material/Other/AI%20Project%20Ideas.md)
 3.  **Kaggle not to win competitions, but to get hands-on with clean, structured simple notebooks.** 
 4. Then move to **Hugging Face where you can plug in powerful language models into your apps without training** anything from scratch. 
 5. **ProjectPro** has legit enterprise-grade end-to-end projects think real data pipelines,AI agents, model deployment, and full-stack ML workflows built specifically for people who want to build, not just theorize. 
@@ -109,7 +109,7 @@ Your experience as a front-end developer gives you a huge advantage, especially 
 - **State Management**: Complex agents need to remember past interactions. Your experience with front-end state management libraries and concepts is directly transferable to managing conversational history and agent state on the backend.
 - **User Experience (UX)**: You are trained to think from the user's perspective. The most significant challenge in AI today is creating a reliable and intuitive user experience for a non-deterministic system. You know how to build interfaces for things like streaming responses, handling loading states, and managing errors gracefully.
 - **Building the Full Application**: An AI agent is useless without an interface. You can build the entire stack, from the chat window in React/Vue to the Python backend that orchestrates the agent. 
-	- [[AI Project Ideas]]
+	- [AI Project Ideas](2%20-%20Source%20Material/Other/AI%20Project%20Ideas.md)
 #### How "Deep" Do You Need to Go? A Comparison
 
 | Topic                | Machine Learning Scientist (Deep)                                                                           | Agentic AI Engineer (Applied)                                                                                                                                                                   |
@@ -535,15 +535,15 @@ Here's what I’ve done so far:
     
 - Take notes by hand, then clean and organize them in **Obsidian**.
     
-- Created a **GitHub repo** where I share all my Obsidian notes and Jupyter notebooks: [[GitHub Repo Link]](https://github.com/0xHadyy/isl-python)
+- Created a **GitHub repo** where I share all my Obsidian notes and Jupyter notebooks: [GitHub Repo Link](GitHub%20Repo%20Link)(https://github.com/0xHadyy/isl-python)
     
-- Launched a **YouTube channel** where I post weekly updates: [[Youtube Channel Link]](https://www.youtube.com/@0xhadyy)
+- Launched a **YouTube channel** where I post weekly updates: [Youtube Channel Link](Youtube%20Channel%20Link)(https://www.youtube.com/@0xhadyy)
     
 - Studied **Linear Regression** in depth – went beyond the book with extra derivations like the **Hat matrix**, **OLS from first principles**, **confidence/prediction intervals**, etc.
     
 - Covered **classification methods**: Logistic Regression, LDA, QDA, Naive Bayes, KNN – and dove deeper into **MLE**, **sigmoid derivations**, **variance/mean estimates**, etc.
     
-- Made a **5-min explainer video on Linear Regression using Manim** – really boosted my intuition: [[Video Link]](https://youtu.be/02DUUTaylko)
+- Made a **5-min explainer video on Linear Regression using Manim** – really boosted my intuition: [Video Link](Video%20Link)(https://youtu.be/02DUUTaylko)
     
 - Solved **all theoretical and applied exercises** from the chapters I covered.
     
@@ -556,5 +556,5 @@ I know I still need to apply what I learn more, so that’s the main focus for n
 
 ---
 ## References
-[[FrontEnd Planning]]
-[[AI Engineering A Realistic Roadmap for Beginners]]
+[FrontEnd Planning](6%20-%20Main%20notes/Frontend/FrontEnd%20Planning.md)
+[AI Engineering A Realistic Roadmap for Beginners](6%20-%20Main%20notes/AI%20Engineering%20A%20Realistic%20Roadmap%20for%20Beginners.md)

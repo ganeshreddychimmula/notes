@@ -3,7 +3,7 @@
 
 Status: 
 
-Tags: [[Career]] [[Resume]] [[Idea]]
+Tags: [Career](3%20-%20Tags/Career.md) [Resume](3%20-%20Tags/Resume.md) [Idea](3%20-%20Tags/Idea.md)
 
 ---
 # Build a full-fledged application using React + TypeScript for the frontend and Python + Django for the backend

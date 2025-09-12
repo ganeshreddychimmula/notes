@@ -30,4 +30,4 @@ Here's a breakdown of how SPAs work and their key characteristics:
 
 ---
 ## References
-[[XMLHttpRequest() - grandfather of AJAX]]
+[XMLHttpRequest() - grandfather of AJAX](6%20-%20Main%20notes/Frontend/Javascript%20notes/XMLHttpRequest()%20-%20grandfather%20of%20AJAX.md)

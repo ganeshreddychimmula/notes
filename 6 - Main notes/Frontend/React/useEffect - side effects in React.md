@@ -255,4 +255,4 @@ The `useEffect` Hook in React allows you to synchronize a component with an exte
 
 ---
 ## References
-[[You might not need an Effect - React]]
+[You might not need an Effect - React](2%20-%20Source%20Material/FrontEnd%20Material/React/You%20might%20not%20need%20an%20Effect%20-%20React.md)

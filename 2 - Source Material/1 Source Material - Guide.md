@@ -1,6 +1,6 @@
 **Source Material**: This folder is dedicated to storing insights gleaned from **all forms of consumed content**. This includes, but is not limited to, books, videos, articles, podcasts, and even Twitter threads.
 - **Source Material**: Stores insights from all consumed content (books, videos, articles, podcasts, Twitter threads). You can create optional subfolders for different types. Notes actively being worked on can remain unsorted until finished.
-- ![[Pasted image 20250623115854.png]]
+- ![Pasted image 20250623115854](2%20-%20Source%20Material/Media%20and%20other%20files/Pasted%20image%2020250623115854.png)
     
 - **Creation of Source Material Notes**:
         - When you encounter something you want to note, you **create a new note in the "Source Material" folder** and title it with the name of the source (e.g., "Confessions of a Cartel Hitman" for a book). If it's an online source, you would include the link.
@@ -30,7 +30,7 @@
 	
 	Additionally, once you have created your main notes, you should:
 	
-	- **Apply tags** to them. Tags "are your best friend in navigating your network especially when it gets large". You would create links to empty tag notes stored in your "Tags" folder (e.g., `[[Job Market]]`, `[[Tech Stacks]]`, `[[Programming Languages]]`). These tags should be relevant to your personal interests and specific enough to be useful, but not overly precise. Aim for "below four and five most of the time" tags per note.
+	- **Apply tags** to them. Tags "are your best friend in navigating your network especially when it gets large". You would create links to empty tag notes stored in your "Tags" folder (e.g., `[Job Market](3%20-%20Tags/Job%20Market.md)`, `[Tech Stacks](Tech%20Stacks)`, `[Programming Languages](Programming%20Languages)`). These tags should be relevant to your personal interests and specific enough to be useful, but not overly precise. Aim for "below four and five most of the time" tags per note.
 
 **Still Confused**: ASK  [NOTEBOOKLM](https://notebooklm.google.com/notebook/7f5bfb55-9172-45fa-bf75-1b4eb38d037c?_gl=1*125u3vl*_up*MQ..*_ga*MTI4MDg1MzU5Ni4xNzQ4MTMxMTQ0*_ga_W0LDH41ZCB*czE3NTA2NDA2MjQkbzUkZzEkdDE3NTA2NDA2MjQkajYwJGwwJGgw&gclid=CjwKCAjw87XBBhBIEiwAxP3_Az-_4Seq63o_xa5WkjxqSnjLNsjSnXKb7oYkjclxh1EeTH80oH0RtRoCuDAQAvD_BwE&gbraid=0AAAAA-fwSsf1vZIr6IckPqAwDUXoppOgq) where to place the notes/content.
 

@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [[../../../3 - Tags/React]]
+Tags: [React](3%20-%20Tags/React.md)
 
 ---
 # Props - React
@@ -134,15 +134,15 @@ function Button({ disabled }) {
 | Rule    | Props are immutable inside child     |
 E.g:
 
-![[Pasted image 20250627143634.png]]
+![Pasted image 20250627143634](2%20-%20Source%20Material/Media%20and%20other%20files/Pasted%20image%2020250627143634.png)
  
 
 ---
 ## References
-[[Why enclose props in flower brackets in JSX or in React]]
-[[Passing and Receiving Props - React]]
-[[Question - Can I pass a custom Prop to a Native DOM Element ]]
-[[Destructuring Concept]]
-[[Handling Static assets(Like images) in React]]
-[[Keys property - React]]
-[[Some instances where props.children is useful - React]]
+[Why enclose props in flower brackets in JSX or in React](6%20-%20Main%20notes/Frontend/React/Why%20enclose%20props%20in%20flower%20brackets%20in%20JSX%20or%20in%20React.md)
+[Passing and Receiving Props - React](6%20-%20Main%20notes/Frontend/React/Passing%20and%20Receiving%20Props%20-%20React.md)
+[Question - Can I pass a custom Prop to a Native DOM Element ](Question%20-%20Can%20I%20pass%20a%20custom%20Prop%20to%20a%20Native%20DOM%20Element%20)
+[Destructuring Concept](6%20-%20Main%20notes/Frontend/Javascript%20notes/Destructuring%20Concept.md)
+[Handling Static assets(Like images) in React](6%20-%20Main%20notes/Frontend/React/Handling%20Static%20assets(Like%20images)%20in%20React.md)
+[Keys property - React](6%20-%20Main%20notes/Frontend/React/Keys%20property%20-%20React.md)
+[Some instances where props.children is useful - React](6%20-%20Main%20notes/Frontend/React/Some%20instances%20where%20props.children%20is%20useful%20-%20React.md)
