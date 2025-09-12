@@ -8,6 +8,8 @@ Tags:
 ---
 # System Design Resources
 
+https://highscalability.com/
+
 https://www.educative.io/
 
 https://neetcode.io/
