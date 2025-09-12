@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [React](3%20-%20Tags/React.md)
+Tags: [React](../../../3%20-%20Tags/React.md)
 
 ---
 # Composability in React and why its important
@@ -17,7 +17,7 @@ Sure! Here's the **Markdown index (just the headings)** of the combined notes:
 - [Why It’s Important](#why-its-important)
 - [Netflix as a Real-World Example of React Composability](#netflix-as-a-real-world-example-of-react-composability)
   - [Component Hierarchy](#component-hierarchy)
-- [Vanilla JS Equivalent (No Framework)](#vanilla-js-equivalent-no-framework)
+- [](No%20Framework)](#vanilla-js-equivalent-no-framework|Vanilla%20JS%20Equivalent%20(No%20Framework))
   - [HTML](#html)
   - [JS](#js)
 - [React vs Vanilla JS: Feature Comparison](#react-vs-vanilla-js-feature-comparison)
@@ -161,5 +161,5 @@ Vanilla JS can mimic this structure, but **becomes hard to maintain** as complex
 
 ---
 ## References
-[Exporting and Importing components in React - Composability](6%20-%20Main%20notes/Frontend/React/Exporting%20and%20Importing%20components%20in%20React%20-%20Composability.md)
-[Why do we need to different files (index.jsx and app.jsx) in React projects](6%20-%20Main%20notes/Frontend/React/Why%20do%20we%20need%20to%20different%20files%20(index.jsx%20and%20app.jsx)%20in%20React%20projects.md) 
+[Exporting and Importing components in React - Composability](Exporting%20and%20Importing%20components%20in%20React%20-%20Composability.md)
+[Why do we need to different files (index.jsx and app.jsx) in React projects](index.jsx%20and%20app.jsx)%20in%20React%20projects)%20in%20React%20projects.md) 

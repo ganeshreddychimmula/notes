@@ -20,7 +20,7 @@ Tags:
 - When you reload a web page, the console typically shows **two main HTTP GET events**:
     1. The browser fetches the contents of the page (e.g., `https://studies.cs.helsinki.fi/exampleapp`) from the server.
     2. The browser downloads associated images, such as `kuva.png`.
-![Pasted image 20250708152526](2%20-%20Source%20Material/Media%20and%20other%20files/Pasted%20image%2020250708152526.png)
+![Pasted image 20250708152526](../../2%20-%20Source%20Material/Media%20and%20other%20files/Pasted%20image%2020250708152526.png)
 - **Request Details (for page content)**:
     - The browser uses the **GET method** to request the address.
     - A **Status code 200** indicates that the request was successful.
@@ -35,7 +35,7 @@ Tags:
     - Because an `img` tag is present in the HTML, the browser performs a **second HTTP GET request** to fetch the image (e.g., `kuva.png`) from the server.
     - This request is made to the image's specific address (e.g., `https://studies.cs.helsinki.fi/exampleapp/kuva.png`).
     - The response headers for the image tell the browser its size (e.g., 89350 bytes) and its **Content-type** (e.g., `image/png`), enabling correct rendering of the image.
-![7m](2%20-%20Source%20Material/Media%20and%20other%20files/7m.png)
+![7m](../../2%20-%20Source%20Material/Media%20and%20other%20files/7m.png)
 - **Sequence of Events**:
     - A sequence diagram visually represents the communication flow, with time moving from top to bottom.
     - Initially, the browser sends an **HTTP GET request for the HTML code of the page**.
@@ -146,7 +146,7 @@ app.post('/new_note', (req, res) => {
 
 Before the AJAX era, all web pages worked like the traditional web application.
 
-The application URLs reflect the old, carefree times. JSON data is fetched from the URL [https://studies.cs.helsinki.fi/exampleapp/data.json](https://studies.cs.helsinki.fi/exampleapp/data.json) and new notes are sent to the URL [https://studies.cs.helsinki.fi/exampleapp/new_note](https://studies.cs.helsinki.fi/exampleapp/new_note). Nowadays URLs like these would not be considered acceptable, as they don't follow the generally acknowledged conventions of [RESTful](https://en.wikipedia.org/wiki/Representational_state_transfer#Applied_to_web_services) APIs, which we'll look into more in [part 3](https://fullstackopen.com/en/part3).
+The application URLs reflect the old, carefree times. JSON data is fetched from the URL [https://studies.cs.helsinki.fi/exampleapp/data.json](https://studies.cs.helsinki.fi/exampleapp/data.json) and new notes are sent to the URL [https://studies.cs.helsinki.fi/exampleapp/new_note](https://studies.cs.helsinki.fi/exampleapp/new_note). Nowadays URLs like these would not be considered acceptable, as they don't follow the generally acknowledged conventions of [](https://en.wikipedia.org/wiki/Representational_state_transfer#Applied_to_web_services) APIs, which we'll look into more in [part 3](https://fullstackopen.com/en/part3).
 - AJAX, has become so deeply integrated into modern web applications that its underlying principles are now standard, while the original term itself is no longer commonly used
 
 ### Single page app[^9]
@@ -155,7 +155,7 @@ In recent years, the [Single-page application](https://en.wikipedia.org/wiki/Si
 ### JavaScript-libraries
 Instead of using JavaScript and the DOM-API only, different libraries containing tools that are easier to work with compared to the DOM-API are often used to manipulate pages. One of these libraries is the ever-so-popular [jQuery](https://jquery.com/).
 - One of the reasons for the success of jQuery was its so-called cross-browser compatibility. The library worked regardless of the browser or the company that made it, so there was no need for browser-specific solutions. Nowadays using jQuery is not as justified given the advancement of JavaScript, and the most popular browsers generally support basic functionalities well.
-- The rise of the single-page app brought several more "modern" ways of web development than jQuery. The favorite of the first wave of developers was [BackboneJS](http://backbonejs.org/). After its [launch](https://github.com/angular/angular.js/blob/master/CHANGELOG.md#100rc1-moir%C3%A9-vision-2012-03-13) in 2012, Google's [AngularJS](https://angularjs.org/) quickly became almost the de facto standard of modern web development.
+- The rise of the single-page app brought several more "modern" ways of web development than jQuery. The favorite of the first wave of developers was [BackboneJS](http://backbonejs.org/). After its [](https://github.com/angular/angular.js/blob/master/CHANGELOG.md#100rc1-moiré-vision-2012-03-13) in 2012, Google's [AngularJS](https://angularjs.org/) quickly became almost the de facto standard of modern web development.
 - However, the popularity of Angular plummeted in October 2014 after the [Angular team announced that support for version 1 will end](https://web.archive.org/web/20151208002550/https://jaxenter.com/angular-2-0-announcement-backfires-112127.html), and that Angular 2 will not be backwards compatible with the first version. Angular 2 and the newer versions have not received too warm of a welcome.
 - Currently, the most popular tool for implementing the browser-side logic of web applications is Facebook's [React](https://react.dev/) library.
 - The status of React seems strong, but the world of JavaScript is ever-changing. For example, recently a newcomer - [VueJS](https://vuejs.org/) - has been capturing some interest.
@@ -169,11 +169,11 @@ Oftentimes, full-stack developers must also have enough configuration and admini
 
 ---
 ## References
-[^2]:  [Traditional or Old school web applications](6%20-%20Main%20notes/Frontend/Javascript%20notes/Traditional%20or%20Old%20school%20web%20applications.md)
-[^3]:  [Running application logic in browser](6%20-%20Main%20notes/Frontend/Javascript%20notes/Running%20application%20logic%20in%20browser.md)
-[^5]: [XMLHttpRequest() - grandfather of AJAX](6%20-%20Main%20notes/Frontend/Javascript%20notes/XMLHttpRequest()%20-%20grandfather%20of%20AJAX.md)
-[^6]: [onreadystatechange - XMLHttpRequest() event handler](6%20-%20Main%20notes/Frontend/Javascript%20notes/onreadystatechange%20-%20XMLHttpRequest()%20event%20handler.md)
-[^7]: [What is DOM, structure and navigation - Javascript](6%20-%20Main%20notes/Frontend/Javascript%20notes/What%20is%20DOM,%20structure%20and%20navigation%20-%20Javascript.md)
-[^8]: [HTTP - Fundamentals](6%20-%20Main%20notes/Frontend/HTTP%20-%20Fundamentals.md)
-[^9]: [Single Page Application](6%20-%20Main%20notes/Frontend/Single%20Page%20Application.md)
-[^10]: [What does Full Stack Web development mean](6%20-%20Main%20notes/Frontend/Javascript%20notes/What%20does%20Full%20Stack%20Web%20development%20mean.md)
+[^2](Javascript%20notes/Traditional%20or%20Old%20school%20web%20applications.md)
+[^3](Javascript%20notes/Running%20application%20logic%20in%20browser.md)
+[^5]()%20-%20grandfather%20of%20AJAX)%20-%20grandfather%20of%20AJAX.md)
+[^6]()%20event%20handler)%20event%20handler.md)
+[^7](Javascript%20notes/What%20is%20DOM,%20structure%20and%20navigation%20-%20Javascript.md)
+[^8](HTTP%20-%20Fundamentals.md)
+[^9](Single%20Page%20Application.md)
+[^10](Javascript%20notes/What%20does%20Full%20Stack%20Web%20development%20mean.md)

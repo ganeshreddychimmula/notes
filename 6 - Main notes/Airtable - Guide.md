@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [Guide](3%20-%20Tags/Guide.md) [Digital Aid Seattle](3%20-%20Tags/Digital%20Aid%20Seattle.md)
+Tags: [Guide](../3%20-%20Tags/Guide.md) [Digital Aid Seattle](../3%20-%20Tags/Digital%20Aid%20Seattle.md)
 
 ---
 # Airtable - Guide
@@ -134,7 +134,7 @@ They **define how you work with the data**, enabling:
 - **Collaboration control** (share only the right slice of data)
 
 ### Syncs
-![Pasted image 20250820225336](2%20-%20Source%20Material/Media%20and%20other%20files/Pasted%20image%2020250820225336.png)
+![Pasted image 20250820225336](../2%20-%20Source%20Material/Media%20and%20other%20files/Pasted%20image%2020250820225336.png)
 Short answer: **“Syncs” are the live data connections feeding your base.** Each sync creates a **synced table** that pulls rows from a source (another Airtable view or an external app). It auto-updates and shows “Last synced …” like in your screenshot.
 
 What that panel means here:
@@ -215,7 +215,7 @@ Q. why decimal is not showing?
 - Bases are shells where you can have interlinked tables
 - 
 
-![Pasted image 20250803125757](2%20-%20Source%20Material/Media%20and%20other%20files/Pasted%20image%2020250803125757.png)
+![Pasted image 20250803125757](../2%20-%20Source%20Material/Media%20and%20other%20files/Pasted%20image%2020250803125757.png)
 - Remember **Automation limit**
 
 ### Formulas Airtable

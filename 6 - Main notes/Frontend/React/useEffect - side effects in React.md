@@ -57,20 +57,20 @@ You need to pass two arguments to `useEffect`:
     - First, your cleanup code runs with the old props and state.
     - Then, your setup code runs with the new props and state.
 3. Your cleanup code runs one final time after your component is removed from the page _(unmounts)._
-#### Returns [](https://react.dev/reference/react/useEffect#returns "Link for Returns")
+#### Returns [](https://react.dev/reference/react/useEffect#returns%20"Link%20for%20Returns")
 
 `useEffect` returns `undefined`
 
 ---
-#### Caveats [](https://react.dev/reference/react/useEffect#caveats "Link for Caveats")
+#### Caveats [](https://react.dev/reference/react/useEffect#caveats%20"Link%20for%20Caveats")
 
 - `useEffect` is a Hook, so you can only call it **at the top level of your component** or your own Hooks. You can’t call it inside loops or conditions. If you need that, extract a new component and move the state into it.
     
 - If you’re **not trying to synchronize with some external system,** [you probably don’t need an Effect.](https://react.dev/learn/you-might-not-need-an-effect)
     
-- When Strict Mode is on, React will **run one extra development-only setup+cleanup cycle** before the first real setup. This is a stress-test that ensures that your cleanup logic “mirrors” your setup logic and that it stops or undoes whatever the setup is doing. If this causes a problem, [implement the cleanup function.](https://react.dev/learn/synchronizing-with-effects#how-to-handle-the-effect-firing-twice-in-development)
+- When Strict Mode is on, React will **run one extra development-only setup+cleanup cycle** before the first real setup. This is a stress-test that ensures that your cleanup logic “mirrors” your setup logic and that it stops or undoes whatever the setup is doing. If this causes a problem, [](https://react.dev/learn/synchronizing-with-effects#how-to-handle-the-effect-firing-twice-in-development)
     
-- If some of your dependencies are objects or functions defined inside the component, there is a risk that they will **cause the Effect to re-run more often than needed.** To fix this, remove unnecessary [object](https://react.dev/reference/react/useEffect#removing-unnecessary-object-dependencies) and [function](https://react.dev/reference/react/useEffect#removing-unnecessary-function-dependencies) dependencies. You can also [extract state updates](https://react.dev/reference/react/useEffect#updating-state-based-on-previous-state-from-an-effect) and [non-reactive logic](https://react.dev/reference/react/useEffect#reading-the-latest-props-and-state-from-an-effect) outside of your Effect.
+- If some of your dependencies are objects or functions defined inside the component, there is a risk that they will **cause the Effect to re-run more often than needed.** To fix this, remove unnecessary [](https://react.dev/reference/react/useEffect#removing-unnecessary-object-dependencies) and [](https://react.dev/reference/react/useEffect#removing-unnecessary-function-dependencies) dependencies. You can also [](https://react.dev/reference/react/useEffect#updating-state-based-on-previous-state-from-an-effect) and [](https://react.dev/reference/react/useEffect#reading-the-latest-props-and-state-from-an-effect) outside of your Effect.
     
 - If your Effect wasn’t caused by an interaction (like a click), React will generally let the browser **paint the updated screen first before running your Effect.** If your Effect is doing something visual (for example, positioning a tooltip), and the delay is noticeable (for example, it flickers), replace `useEffect` with [`useLayoutEffect`.](https://react.dev/reference/react/useLayoutEffect)
     
@@ -255,4 +255,4 @@ The `useEffect` Hook in React allows you to synchronize a component with an exte
 
 ---
 ## References
-[You might not need an Effect - React](2%20-%20Source%20Material/FrontEnd%20Material/React/You%20might%20not%20need%20an%20Effect%20-%20React.md)
+[You might not need an Effect - React](../../../2%20-%20Source%20Material/FrontEnd%20Material/React/You%20might%20not%20need%20an%20Effect%20-%20React.md)

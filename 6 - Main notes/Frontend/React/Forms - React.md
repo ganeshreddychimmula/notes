@@ -3,7 +3,7 @@
 
 Status:
 
-Tags:[React](3%20-%20Tags/React.md) [JavaScript](3%20-%20Tags/JavaScript.md)
+Tags:[React](../../../3%20-%20Tags/React.md) [JavaScript](../../../3%20-%20Tags/JavaScript.md)
 
 ---
 # Forms - React
@@ -213,4 +213,4 @@ const favColor = formData.get("favColor")
 ---
 ## References
 
-[^1]: [object.fromEntries() - javaScript](6%20-%20Main%20notes/Frontend/Javascript%20notes/object.fromEntries()%20-%20javaScript.md)
+[^1]()%20-%20javaScript)%20-%20javaScript.md)

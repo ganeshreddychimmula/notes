@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [Question](3%20-%20Tags/Question.md) [JavaScript](3%20-%20Tags/JavaScript.md)
+Tags: [Question](../../../3%20-%20Tags/Question.md) [JavaScript](../../../3%20-%20Tags/JavaScript.md)
 
 ---
 # Question - Can I pass a custom Prop to a Native DOM Element

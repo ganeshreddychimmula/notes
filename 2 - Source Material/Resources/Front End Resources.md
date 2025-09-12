@@ -1,5 +1,5 @@
-tags: [Resources](3%20-%20Tags/Resources.md) [FrontEnd](3%20-%20Tags/FrontEnd.md) [Read later](3%20-%20Tags/Read%20later.md)
-tags: [CSS](3%20-%20Tags/CSS.md)    
+tags: [Resources](../../3%20-%20Tags/Resources.md) [FrontEnd](../../3%20-%20Tags/FrontEnd.md) [Read later](../../3%20-%20Tags/Read%20later.md)
+tags: [CSS](../../3%20-%20Tags/CSS.md)    
 
 - [https://css-tricks.com/responsive-layouts-fewer-media-queries/](https://css-tricks.com/responsive-layouts-fewer-media-queries/) 
 
@@ -24,7 +24,7 @@ tags: [CSS](3%20-%20Tags/CSS.md)    
 
 
 ## JavaScript :java-script:
-tags: [JavaScript](3%20-%20Tags/JavaScript.md) 
+tags: [JavaScript](../../3%20-%20Tags/JavaScript.md) 
 
 - [https://javascript.info/](https://javascript.info/) 
 

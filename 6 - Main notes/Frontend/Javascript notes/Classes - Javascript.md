@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [JavaScript](3%20-%20Tags/JavaScript.md)
+Tags: [JavaScript](../../../3%20-%20Tags/JavaScript.md)
 
 ---
 ### Classes
@@ -160,10 +160,10 @@ The result is same. Still, there are important *differences*:
             constructor(name) {
                 this.name = name;
             }
-            [methodName]() { // Computed method name
+            [methodName](.md) { // Computed method name
                 console.log(`Hello, ${this.name}!`);
             }
-            ['get' + 'Name']() { // Another computed property example
+            ['get' + 'Name'](.md) { // Another computed property example
                 return this.name;
             }
         }
@@ -477,4 +477,4 @@ Class fields is a syntax that allows to add any properties.
         ```
 ---
 ## References
-[Prototype - Javascript](6%20-%20Main%20notes/Frontend/Javascript%20notes/Prototype%20-%20Javascript.md)
+[Prototype - Javascript](Prototype%20-%20Javascript.md)

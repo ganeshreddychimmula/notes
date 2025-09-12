@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [Prompts](3%20-%20Tags/Prompts.md) [learning](3%20-%20Tags/learning.md) [Read later](3%20-%20Tags/Read%20later.md)
+Tags: [Prompts](../../3%20-%20Tags/Prompts.md) [learning](../../3%20-%20Tags/learning.md) [Read later](../../3%20-%20Tags/Read%20later.md)
 
 ---
 # Prompts to learn anything

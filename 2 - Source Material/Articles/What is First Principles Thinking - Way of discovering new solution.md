@@ -3,7 +3,7 @@
 
 Status:  #Comeback #ReadLater 
 
-Tags: [Best Practices](3%20-%20Tags/Best%20Practices.md)
+Tags: [Best Practices](../../3%20-%20Tags/Best%20Practices.md)
 
 ---
 # What is First Principles Thinking - Way of discovering new solution
@@ -116,4 +116,4 @@ In a world focused on incremental improvement, first-principles thinking offers 
 ---
 ## References
 
-[A B Testing](6%20-%20Main%20notes/A%20B%20Testing.md)
+[A B Testing](../../6%20-%20Main%20notes/A%20B%20Testing.md)

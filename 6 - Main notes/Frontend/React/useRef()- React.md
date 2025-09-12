@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [React](3%20-%20Tags/React.md)
+Tags: [React](../../../3%20-%20Tags/React.md)
 
 ---
 # React `useRef()` - Deep Dive and Related Concepts
@@ -26,11 +26,11 @@ const myRef = useRef(initialValue)
     
 - Updating `myRef.current` **does NOT trigger a re-render**.
 
-#### Parameters [](https://react.dev/reference/react/useRef#parameters "Link for Parameters")
+#### Parameters [](https://react.dev/reference/react/useRef#parameters%20"Link%20for%20Parameters")
 
 - `initialValue`: The value you want the ref object’s `current` property to be initially. It can be a value of any type. This argument is ignored after the initial render.
 
-#### Returns [](https://react.dev/reference/react/useRef#returns "Link for Returns")
+#### Returns [](https://react.dev/reference/react/useRef#returns%20"Link%20for%20Returns")
 
 `useRef` returns an object with a single property:
 
@@ -117,11 +117,11 @@ useEffect(() => {
 ### Caveats 
 - You can mutate the `ref.current` property. Unlike state, it is mutable. However, if it holds an object that is used for rendering (for example, a piece of your state), then you shouldn’t mutate that object.
 - When you change the `ref.current` property, React does not re-render your component. React is not aware of when you change it because a ref is a plain JavaScript object.
-- Do not write _or read_ `ref.current` during rendering, except for [initialization.](https://react.dev/reference/react/useRef#avoiding-recreating-the-ref-contents) This makes your component’s behavior unpredictable. [^1]
+- Do not write _or read_ `ref.current` during rendering, except for [](https://react.dev/reference/react/useRef#avoiding-recreating-the-ref-contents) This makes your component’s behavior unpredictable. [^1]
 	- Reading or writing `ref.current` inside the component's render body (outside `useEffect` or event handlers) can lead to **inconsistent behavior**, because React may call the render function multiple times. Use refs only for **storing values between renders**, not for reactive logic during render.
 > 	✅ Safe: `const ref = useRef(0)`  
 > 	❌ Risky: `if (ref.current === 0) { doSomething(); }` in render
-- In Strict Mode, React will **call your component function twice** in order to [help you find accidental impurities.](https://react.dev/reference/react/useState#my-initializer-or-updater-function-runs-twice) This is development-only behavior and does not affect production. Each ref object will be created twice, but one of the versions will be discarded. If your component function is pure (as it should be), this should not affect the behavior.
+- In Strict Mode, React will **call your component function twice** in order to [](https://react.dev/reference/react/useState#my-initializer-or-updater-function-runs-twice) This is development-only behavior and does not affect production. Each ref object will be created twice, but one of the versions will be discarded. If your component function is pure (as it should be), this should not affect the behavior.
 	- In development mode, **React Strict Mode** calls your component function twice (mount → unmount → mount again) to detect side effects. This includes creating two versions of `ref` objects—only one is used. This does **not happen in production**, and **won’t cause issues if your component is pure**.
 > 	⚠️ Impure code (e.g., modifying refs or state in render) may break under Strict Mode
 
@@ -270,4 +270,4 @@ let secondsPassed = (now - startTime) / 1000;
 
 ---
 ## References
-[^1]: [Why not to read or write refs during rendering - React](6%20-%20Main%20notes/Frontend/React/Why%20not%20to%20read%20or%20write%20refs%20during%20rendering%20-%20React.md)
+[^1](Why%20not%20to%20read%20or%20write%20refs%20during%20rendering%20-%20React.md)

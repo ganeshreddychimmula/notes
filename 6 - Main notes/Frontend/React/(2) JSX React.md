@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [React](3%20-%20Tags/React.md)
+Tags: [React](../../../3%20-%20Tags/React.md)
 
 ---
 # JSX React
@@ -106,4 +106,4 @@ const App = () => {
   
 ---
 ## References
-[JSX elements must have a single common parent](6%20-%20Main%20notes/Frontend/React/JSX%20elements%20must%20have%20a%20single%20common%20parent.md)
+[JSX elements must have a single common parent](JSX%20elements%20must%20have%20a%20single%20common%20parent.md)

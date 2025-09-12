@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [JavaScript](3%20-%20Tags/JavaScript.md)
+Tags: [JavaScript](../../../3%20-%20Tags/JavaScript.md)
 
 ---
 # DOM - Javascript
@@ -42,7 +42,7 @@ Tags: [JavaScript](3%20-%20Tags/JavaScript.md)
 - To select an element in the browser console: `ESC` (opens console) → `$0` (current selected element).
     
 ### DOM Hierarchy and Navigation
-![PXL_20250708_234146994](2%20-%20Source%20Material/Media%20and%20other%20files/PXL_20250708_234146994.jpg)
+![PXL_20250708_234146994](../../../2%20-%20Source%20Material/Media%20and%20other%20files/PXL_20250708_234146994.jpg)
                 
 - The topmost tree nodes are available as document properties:
     - `<html>` = `document.documentElement`
@@ -113,4 +113,4 @@ Tags: [JavaScript](3%20-%20Tags/JavaScript.md)
 
 ---
 ## References
-[^1]: [DOM Collection - Javascript](DOM%20Collection%20-%20Javascript)
+[^1](DOM%20Collection%20-%20Javascript)

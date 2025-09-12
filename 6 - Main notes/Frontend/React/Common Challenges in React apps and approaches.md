@@ -119,7 +119,7 @@ useEffect(() => {
 
 Code-splitting is the process of breaking your app into smaller bundles that can be loaded on demand. An app’s code size increases with every new feature and additional dependency. Apps can become slow to load because all of the code for the entire app needs to be sent before it can be used. ==Caching, reducing features/dependencies, and moving some code to run on the server can help mitigate slow loading but are incomplete solutions that can sacrifice functionality if overused.==
 
-Similarly, if you rely on the apps using your framework to split the code, you might encounter situations where loading becomes slower than if no code splitting were happening at all. For example, [lazily loading](https://react.dev/reference/react/lazy) a chart delays sending the code needed to render the chart, splitting the chart code from the rest of the app. [Parcel supports code splitting with React.lazy](https://parceljs.org/recipes/react/#code-splitting). However, if the chart loads its data _after_ it has been initially rendered you are now waiting twice. This is a waterfall: rather than fetching the data for the chart and sending the code to render it simultaneously, you must wait for each step to complete one after the other.
+Similarly, if you rely on the apps using your framework to split the code, you might encounter situations where loading becomes slower than if no code splitting were happening at all. For example, [lazily loading](https://react.dev/reference/react/lazy) a chart delays sending the code needed to render the chart, splitting the chart code from the rest of the app. [](https://parceljs.org/recipes/react/#code-splitting). However, if the chart loads its data _after_ it has been initially rendered you are now waiting twice. This is a waterfall: rather than fetching the data for the chart and sending the code to render it simultaneously, you must wait for each step to complete one after the other.
 ### ❓ The Problem:
 As apps grow, the JS bundle becomes large and slows down initial load.
 
@@ -224,19 +224,19 @@ How do you style components in a modular, reusable, and scalable way?
 - **Material UI (MUI) / Chakra UI / Ant Design**
     - Component libraries with built-in styling solutions.
 
-## Improving Application Performance [](https://react.dev/learn/build-a-react-app-from-scratch#improving-application-performance "Link for Improving Application Performance")
+## Improving Application Performance [](https://react.dev/learn/build-a-react-app-from-scratch#improving-application-performance%20"Link%20for%20Improving%20Application%20Performance")
 Since the build tool you select only support single page apps (SPAs) you’ll need to implement other [rendering patterns](https://www.patterns.dev/vanilla/rendering-patterns) like server-side rendering (SSR), static site generation (SSG), and/or React Server Components (RSC). Even if you don’t need these features at first, in the future there may be some routes that would benefit SSR, SSG or RSC.
 
 - **Single-page apps (SPA)** load a single HTML page and dynamically updates the page as the user interacts with the app. SPAs are easier to get started with, but they can have slower initial load times. SPAs are the default architecture for most build tools.
     
 - **Streaming Server-side rendering (SSR)** renders a page on the server and sends the fully rendered page to the client. SSR can improve performance, but it can be more complex to set up and maintain than a single-page app. With the addition of streaming, SSR can be very complex to set up and maintain. See [Vite’s SSR guide](https://vite.dev/guide/ssr).
     
-- **Static site generation (SSG)** generates static HTML files for your app at build time. SSG can improve performance, but it can be more complex to set up and maintain than server-side rendering. See [Vite’s SSG guide](https://vite.dev/guide/ssr.html#pre-rendering-ssg).
+- **Static site generation (SSG)** generates static HTML files for your app at build time. SSG can improve performance, but it can be more complex to set up and maintain than server-side rendering. See [](https://vite.dev/guide/ssr.html#pre-rendering-ssg).
     
 - **React Server Components (RSC)** lets you mix build-time, server-only, and interactive components in a single React tree. RSC can improve performance, but it currently requires deep expertise to set up and maintain. See [Parcel’s RSC examples](https://github.com/parcel-bundler/rsc-examples).
 Your rendering strategies need to integrate with your router so apps built with your framework can choose the rendering strategy on a per-route level. This will enable different rendering strategies without having to rewrite your whole app. For example, the landing page for your app might benefit from being statically generated (SSG), while a page with a content feed might perform best with server-side rendering.
 
-- [ ] Using the right rendering strategy for the right routes can decrease the time it takes for the first byte of content to be loaded ([Time to First Byte](https://web.dev/articles/ttfb)), the first piece of content to render ([First Contentful Paint](https://web.dev/articles/fcp)), and the largest visible content of the app to render ([Largest Contentful Paint](https://web.dev/articles/lcp)).
+- [ ]([Time%20to%20First%20Byte)), the first piece of content to render ([First Contentful Paint](https://web.dev/articles/fcp)), and the largest visible content of the app to render ([Largest Contentful Paint](https://web.dev/articles/lcp)).
 
 ## Summary Table
 

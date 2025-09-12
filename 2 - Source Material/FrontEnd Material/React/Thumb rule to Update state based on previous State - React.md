@@ -49,4 +49,4 @@ This will correctly result in `count = 3`.
 ---
 ## References
 
-[Why can't I directly modify a component's state - React](6%20-%20Main%20notes/Frontend/React/Why%20can't%20I%20directly%20modify%20a%20component's%20state%20-%20React.md)
+[Why can't I directly modify a component's state - React](../../../6%20-%20Main%20notes/Frontend/React/Why%20can't%20I%20directly%20modify%20a%20component's%20state%20-%20React.md)

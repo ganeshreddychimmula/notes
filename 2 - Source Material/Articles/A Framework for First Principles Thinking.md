@@ -3,7 +3,7 @@
 
 Status: #ReadLater #ReadAgain #Com
 
-Tags: [Best Practices](3%20-%20Tags/Best%20Practices.md) 
+Tags: [Best Practices](../../3%20-%20Tags/Best%20Practices.md) 
 
 ---
 # A Framework for First Principles Thinking
@@ -47,6 +47,6 @@ So, the brain creates shortcuts. The first time you have a question, you turn to
 ---
 ## References
 
-[What is First Principles Thinking - Way of discovering new solution](2%20-%20Source%20Material/Articles/What%20is%20First%20Principles%20Thinking%20-%20Way%20of%20discovering%20new%20solution.md)
-[How to See Systems - First Principles](2%20-%20Source%20Material/Articles/How%20to%20See%20Systems%20-%20First%20Principles.md)
-[A simplistic explanation to mental models](2%20-%20Source%20Material/Articles/A%20simplistic%20explanation%20to%20mental%20models.md)
+[What is First Principles Thinking - Way of discovering new solution](What%20is%20First%20Principles%20Thinking%20-%20Way%20of%20discovering%20new%20solution.md)
+[How to See Systems - First Principles](How%20to%20See%20Systems%20-%20First%20Principles.md)
+[A simplistic explanation to mental models](A%20simplistic%20explanation%20to%20mental%20models.md)

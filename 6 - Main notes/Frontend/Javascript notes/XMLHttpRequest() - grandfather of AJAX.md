@@ -89,4 +89,4 @@ But `XMLHttpRequest` is still supported in all browsers and useful for learning 
 ---
 ## References
 
-[onreadystatechange - XMLHttpRequest() event handler](6%20-%20Main%20notes/Frontend/Javascript%20notes/onreadystatechange%20-%20XMLHttpRequest()%20event%20handler.md)
+[onreadystatechange - XMLHttpRequest() event handler]()%20event%20handler)%20event%20handler.md)

@@ -3,7 +3,7 @@
 
 Status: #done
 
-Tags: [Best Practices](3%20-%20Tags/Best%20Practices.md)
+Tags: [Best Practices](../../3%20-%20Tags/Best%20Practices.md)
 
 ---
 # Agile Product Ownership

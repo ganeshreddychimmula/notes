@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [React](3%20-%20Tags/React.md)
+Tags: [React](../../../3%20-%20Tags/React.md)
 
 ---
 # Using `fetch()` in React — Notes & Best Practices
@@ -219,4 +219,4 @@ function useFetch(url) {
 
 ---
 ## References
-[Fetch API](6%20-%20Main%20notes/Frontend/Javascript%20notes/Fetch%20API.md)
+[Fetch API](../Javascript%20notes/Fetch%20API.md)

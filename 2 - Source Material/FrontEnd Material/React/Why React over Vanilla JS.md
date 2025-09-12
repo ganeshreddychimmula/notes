@@ -3,7 +3,7 @@
 
 Status:
 
-Tags:  [JavaScript](3%20-%20Tags/JavaScript.md)
+Tags:  [JavaScript](../../../3%20-%20Tags/JavaScript.md)
 
 ---
 # Why React over Vanilla JS

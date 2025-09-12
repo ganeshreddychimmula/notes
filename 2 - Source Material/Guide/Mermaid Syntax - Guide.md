@@ -7,7 +7,7 @@ Tags:
 
 ---
 # Mermaid Syntax - Guide
-Mermaid is a Markdown-inspired tool that renders text into diagrams. For example, Mermaid can render flow charts, sequence diagrams, pie charts and more. For more information, see the [Mermaid documentation](https://mermaid-js.github.io/mermaid/#/).
+Mermaid is a Markdown-inspired tool that renders text into diagrams. For example, Mermaid can render flow charts, sequence diagrams, pie charts and more. For more information, see the [](https://mermaid-js.github.io/mermaid/#/).
 
 Mermaid is a JavaScript based diagramming and charting tool that uses Markdown-inspired text definitions and a renderer to create and modify complex diagrams. The main purpose of Mermaid is to help documentation catch up with development.
 
@@ -20,7 +20,7 @@ Syntax, together with Deployment and Configuration constitute the whole of Merma
 ### Syntax Structure
 
 All **Diagrams definitions begin** with a declaration of the **diagram type**, followed by the definitions of the diagram and its contents.
-This declaration notifies the parser which kind of diagram the code is supposed to generate. The only exception to this a [Frontmatter](https://mermaid.js.org/intro/syntax-reference.html#frontmatter-for-diagram-code) configuration.
+This declaration notifies the parser which kind of diagram the code is supposed to generate. The only exception to this a [](https://mermaid.js.org/intro/syntax-reference.html#frontmatter-for-diagram-code) configuration.
 
 Line comments can ignore anything on the line after `%%`.
 

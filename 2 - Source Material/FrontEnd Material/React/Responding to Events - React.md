@@ -3,7 +3,7 @@
 
 Status:
 
-Tags:[React](3%20-%20Tags/React.md)
+Tags:[React](../../../3%20-%20Tags/React.md)
 
 ---
 # Responding to Events - React

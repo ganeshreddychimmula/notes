@@ -3,7 +3,7 @@
 
 Status: #Comeback
 
-Tags: [Best Practices](3%20-%20Tags/Best%20Practices.md)
+Tags: [Best Practices](../3%20-%20Tags/Best%20Practices.md)
 
 ---
 # Taking Ownership - Product Ownership
@@ -156,5 +156,5 @@ I figured the hard part of software engineering was building things. But now, ma
 ## References
 [^1]:  https://www.jeremybrown.tech/product-and-engineering-who-owns-what/
 [^2]: https://neilkakkar.com/How-I-Own-Projects-as-a-Software-Engineer.html
-[How to work out what your users really need](2%20-%20Source%20Material/Articles/How%20to%20work%20out%20what%20your%20users%20really%20need.md)
-[How to Make Things Happen](2%20-%20Source%20Material/Articles/How%20to%20Make%20Things%20Happen.md)
+[How to work out what your users really need](../2%20-%20Source%20Material/Articles/How%20to%20work%20out%20what%20your%20users%20really%20need.md)
+[How to Make Things Happen](../2%20-%20Source%20Material/Articles/How%20to%20Make%20Things%20Happen.md)

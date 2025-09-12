@@ -4,7 +4,7 @@
 
 Status:
 
-Tags: [Career](3%20-%20Tags/Career.md) [AI](3%20-%20Tags/AI.md) [ML](3%20-%20Tags/ML.md) [Roadmap](3%20-%20Tags/Roadmap.md) [FrontEnd](3%20-%20Tags/FrontEnd.md) [Resources](3%20-%20Tags/Resources.md)
+Tags: [Career](../../3%20-%20Tags/Career.md) [AI](../../3%20-%20Tags/AI.md) [ML](../../3%20-%20Tags/ML.md) [Roadmap](../../3%20-%20Tags/Roadmap.md) [FrontEnd](../../3%20-%20Tags/FrontEnd.md) [Resources](../../3%20-%20Tags/Resources.md)
 
 ---
 
@@ -67,7 +67,7 @@ Tags: [Career](3%20-%20Tags/Career.md) [AI](3%20-%20Tags/AI.md) [ML](3%20-%20Tag
 		- Vector Databases for Embeddings with Pinecone 
 		- Software Engineering Principles in Python 
 		- Developing LLM Applications with Lang Chain  
-2. [AI Project Ideas](2%20-%20Source%20Material/Other/AI%20Project%20Ideas.md)
+2. [AI Project Ideas](../Other/AI%20Project%20Ideas.md)
 3.  **Kaggle not to win competitions, but to get hands-on with clean, structured simple notebooks.** 
 4. Then move to **Hugging Face where you can plug in powerful language models into your apps without training** anything from scratch. 
 5. **ProjectPro** has legit enterprise-grade end-to-end projects think real data pipelines,AI agents, model deployment, and full-stack ML workflows built specifically for people who want to build, not just theorize. 
@@ -109,7 +109,7 @@ Your experience as a front-end developer gives you a huge advantage, especially 
 - **State Management**: Complex agents need to remember past interactions. Your experience with front-end state management libraries and concepts is directly transferable to managing conversational history and agent state on the backend.
 - **User Experience (UX)**: You are trained to think from the user's perspective. The most significant challenge in AI today is creating a reliable and intuitive user experience for a non-deterministic system. You know how to build interfaces for things like streaming responses, handling loading states, and managing errors gracefully.
 - **Building the Full Application**: An AI agent is useless without an interface. You can build the entire stack, from the chat window in React/Vue to the Python backend that orchestrates the agent. 
-	- [AI Project Ideas](2%20-%20Source%20Material/Other/AI%20Project%20Ideas.md)
+	- [AI Project Ideas](../Other/AI%20Project%20Ideas.md)
 #### How "Deep" Do You Need to Go? A Comparison
 
 | Topic                | Machine Learning Scientist (Deep)                                                                           | Agentic AI Engineer (Applied)                                                                                                                                                                   |
@@ -556,5 +556,5 @@ I know I still need to apply what I learn more, so that’s the main focus for n
 
 ---
 ## References
-[FrontEnd Planning](6%20-%20Main%20notes/Frontend/FrontEnd%20Planning.md)
-[AI Engineering A Realistic Roadmap for Beginners](6%20-%20Main%20notes/AI%20Engineering%20A%20Realistic%20Roadmap%20for%20Beginners.md)
+[FrontEnd Planning](../../6%20-%20Main%20notes/Frontend/FrontEnd%20Planning.md)
+[AI Engineering A Realistic Roadmap for Beginners](../../6%20-%20Main%20notes/AI%20Engineering%20A%20Realistic%20Roadmap%20for%20Beginners.md)

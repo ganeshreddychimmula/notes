@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [React](3%20-%20Tags/React.md) [React Router](3%20-%20Tags/React%20Router.md)
+Tags: [React](../../../3%20-%20Tags/React.md) [React Router](../../../3%20-%20Tags/React%20Router.md)
 
 ---
 # React Router 6
@@ -242,7 +242,7 @@ Reviewing the route config, the route looks like this:
 
 Note the `:contactId` URL segment. The colon (`:`) has special meaning, turning it into a "dynamic segment". Dynamic segments will match dynamic (changing) values in that position of the URL, like the contact ID. We call these values in the URL "URL Params", or just "params" for short.
 
-These [`params`](https://reactrouter.com/6.30.1/route/loader#params) are passed to the loader with keys that match the dynamic segment. For example, our segment is named `:contactId` so the value will be passed as `params.contactId`.
+These [](https://reactrouter.com/6.30.1/route/loader#params) are passed to the loader with keys that match the dynamic segment. For example, our segment is named `:contactId` so the value will be passed as `params.contactId`.
 
 These params are most often used to find a record by ID. Let's try it out.
 
@@ -396,7 +396,7 @@ After we finished the action, note the [`redirect`](https://reactrouter.com/6.3
   return redirect(`/contacts/${params.contactId}`);
 ```
 
-Loaders and actions can both [return a `Response`](https://reactrouter.com/6.30.1/route/loader#returning-responses) (makes sense, since they received a [`Request`](https://developer.mozilla.org/en-US/docs/Web/API/Request)!). The [`redirect`](https://reactrouter.com/6.30.1/fetch/redirect) helper just makes it easier to return a [response](https://developer.mozilla.org/en-US/docs/Web/API/Response) that tells the app to change locations.
+Loaders and actions can both [](https://reactrouter.com/6.30.1/route/loader#returning-responses) (makes sense, since they received a [`Request`](https://developer.mozilla.org/en-US/docs/Web/API/Request)!). The [`redirect`](https://reactrouter.com/6.30.1/fetch/redirect) helper just makes it easier to return a [response](https://developer.mozilla.org/en-US/docs/Web/API/Response) that tells the app to change locations.
 
 ### `request` in Loader
 
@@ -803,7 +803,7 @@ Nested Routes, Route parameters
 - Route params? why it is useful?  
 -  useParams() -> to get params
 - nested rotes contain shared UI
-![Pasted image 20250823162521](2%20-%20Source%20Material/Media%20and%20other%20files/Pasted%20image%2020250823162521.png)
+![Pasted image 20250823162521](../../../2%20-%20Source%20Material/Media%20and%20other%20files/Pasted%20image%2020250823162521.png)
 
 Layout Routes
 - <Layout />
@@ -912,7 +912,7 @@ how to keep reference of previous page or parent route filters?
 - `state` in link
 	- The `state` property can be used to set a stateful value for the new location which is stored inside [history state](https://developer.mozilla.org/en-US/docs/Web/API/History/state). This value can subsequently be accessed via `useLocation()`.
 
-- The term "location" in React Router refers to [the `Location` interface](https://github.com/remix-run/history/blob/main/docs/api-reference.md#location) from the [history](https://github.com/remix-run/history) library.
+- The term "location" in React Router refers to [](https://github.com/remix-run/history/blob/main/docs/api-reference.md#location) from the [history](https://github.com/remix-run/history) library.
 
 404 page:
 catch all route
@@ -922,14 +922,14 @@ catch all route
 - In the new version, it doesn't matter if you put it first or last.
 
 Happy path vs sad path
-![Pasted image 20250827151302](2%20-%20Source%20Material/Media%20and%20other%20files/Pasted%20image%2020250827151302.png)
-![Pasted image 20250827151235](2%20-%20Source%20Material/Media%20and%20other%20files/Pasted%20image%2020250827151235.png)
+![Pasted image 20250827151302](../../../2%20-%20Source%20Material/Media%20and%20other%20files/Pasted%20image%2020250827151302.png)
+![Pasted image 20250827151235](../../../2%20-%20Source%20Material/Media%20and%20other%20files/Pasted%20image%2020250827151235.png)
 
 ---
 ### Protected routes
 
-![Pasted image 20250827172412](2%20-%20Source%20Material/Media%20and%20other%20files/Pasted%20image%2020250827172412.png)
-![Pasted image 20250827172439](2%20-%20Source%20Material/Media%20and%20other%20files/Pasted%20image%2020250827172439.png)
+![Pasted image 20250827172412](../../../2%20-%20Source%20Material/Media%20and%20other%20files/Pasted%20image%2020250827172412.png)
+![Pasted image 20250827172439](../../../2%20-%20Source%20Material/Media%20and%20other%20files/Pasted%20image%2020250827172439.png)
 - `<Navigate>` 
 ```jsx
 import React from "react"
@@ -1054,13 +1054,13 @@ https://reactrouter.com/6.30.1/hooks/use-location#properties
 
 ---
 ## References
-[Single Page Vs multipage Applications](6%20-%20Main%20notes/Frontend/Single%20Page%20Vs%20multipage%20Applications.md)
-[Deploy to Netlifly](6%20-%20Main%20notes/Frontend/Deploy%20to%20Netlifly.md)
-[Mirage JS](6%20-%20Main%20notes/Mirage%20JS.md)
-[Using fetch() in React](6%20-%20Main%20notes/Frontend/React/Using%20fetch()%20in%20React.md)
+[Single Page Vs multipage Applications](../Single%20Page%20Vs%20multipage%20Applications.md)
+[Deploy to Netlifly](../Deploy%20to%20Netlifly.md)
+[Mirage JS](../../Mirage%20JS.md)
+[Using fetch() in React]()%20in%20React)%20in%20React.md)
 [Loaders and actions - React Router](Loaders%20and%20actions%20-%20React%20Router)
-[^1]: [React Router 6 vs 7](6%20-%20Main%20notes/Frontend/React/React%20Router%206%20vs%207.md)
-[^2]: [How to pick a Router - React Router 6](6%20-%20Main%20notes/Frontend/React/How%20to%20pick%20a%20Router%20-%20React%20Router%206.md)
+[^1](React%20Router%206%20vs%207.md)
+[^2](How%20to%20pick%20a%20Router%20-%20React%20Router%206.md)
 
 
 

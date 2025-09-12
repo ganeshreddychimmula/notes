@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [Setup](Setup) [React](3%20-%20Tags/React.md)
+Tags: [Setup](Setup) [React](../../../3%20-%20Tags/React.md)
 
 
 ---
@@ -16,11 +16,11 @@ Tags: [Setup](Setup) [React](3%20-%20Tags/React.md)
 - `nvm install --lts` (long term supported version) gives you the most stable version of node.
 ### Starting a new project
 - `npm create vite@latest` - This is start a process that will help build the project
-![Pasted image 20250624130402](2%20-%20Source%20Material/Media%20and%20other%20files/Pasted%20image%2020250624130402.png)
+![Pasted image 20250624130402](../../Media%20and%20other%20files/Pasted%20image%2020250624130402.png)
 
-![Pasted image 20250624130438](2%20-%20Source%20Material/Media%20and%20other%20files/Pasted%20image%2020250624130438.png)
+![Pasted image 20250624130438](../../Media%20and%20other%20files/Pasted%20image%2020250624130438.png)
 
-![Pasted image 20250624130520](2%20-%20Source%20Material/Media%20and%20other%20files/Pasted%20image%2020250624130520.png)
+![Pasted image 20250624130520](../../Media%20and%20other%20files/Pasted%20image%2020250624130520.png)
 
 - `cd first-react` (project folder)
 - `npm install`
@@ -40,5 +40,5 @@ Tags: [Setup](Setup) [React](3%20-%20Tags/React.md)
 ---
 ## References
 [Build a React  App from Scratch through Vite](https://react.dev/learn/build-a-react-app-from-scratch)
-[Vite Guide](2%20-%20Source%20Material/Guide/Vite%20Guide.md)
-[Understanding Cypto Hash Error - React Setup](6%20-%20Main%20notes/Frontend/React/Understanding%20Cypto%20Hash%20Error%20-%20React%20Setup.md)
+[Vite Guide](../../Guide/Vite%20Guide.md)
+[Understanding Cypto Hash Error - React Setup](../../../6%20-%20Main%20notes/Frontend/React/Understanding%20Cypto%20Hash%20Error%20-%20React%20Setup.md)

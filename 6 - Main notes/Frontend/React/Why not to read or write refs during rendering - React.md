@@ -3,12 +3,12 @@
 
 Status:
 
-Tags: [React](3%20-%20Tags/React.md)
+Tags: [React](../../../3%20-%20Tags/React.md)
 
 ---
 # Why not to read or write refs during rendering - React
 
-- Do not write _or read_ `ref.current` during rendering, except for [initialization.](https://react.dev/reference/react/useRef#avoiding-recreating-the-ref-contents) This makes your component’s behavior unpredictable.
+- Do not write _or read_ `ref.current` during rendering, except for [](https://react.dev/reference/react/useRef#avoiding-recreating-the-ref-contents) This makes your component’s behavior unpredictable.
 	- Reading or writing `ref.current` inside the component's render body (outside `useEffect` or event handlers) can lead to **inconsistent behavior**, because React may call the render function multiple times. Use refs only for **storing values between renders**, not for reactive logic during render.
 > 	✅ Safe: `const ref = useRef(0)`  
 > 	❌ Risky: `if (ref.current === 0) { doSomething(); }` in render

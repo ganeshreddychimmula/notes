@@ -1,7 +1,7 @@
 
 2025-07-20 21:20
 
-Status: [React](3%20-%20Tags/React.md)
+Status: [React](../../../3%20-%20Tags/React.md)
 
 Tags:
 

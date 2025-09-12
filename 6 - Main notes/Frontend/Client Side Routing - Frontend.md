@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [FrontEnd](3%20-%20Tags/FrontEnd.md) [React Router](3%20-%20Tags/React%20Router.md)
+Tags: [FrontEnd](../../3%20-%20Tags/FrontEnd.md) [React Router](../../3%20-%20Tags/React%20Router.md)
 
 ---
 # Client Side Routing - Frontend

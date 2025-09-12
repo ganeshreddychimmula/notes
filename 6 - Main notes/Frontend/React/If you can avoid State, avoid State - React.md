@@ -147,7 +147,7 @@ Use `useState` **only when you need to store and persist values that React would
 Would you like a visual cheat sheet showing when to **derive vs store** values in state?
 
 Example used here is for this problem:
-![Pasted image 20250706231606](2%20-%20Source%20Material/Media%20and%20other%20files/Pasted%20image%2020250706231606.png) 
+![Pasted image 20250706231606](../../../2%20-%20Source%20Material/Media%20and%20other%20files/Pasted%20image%2020250706231606.png) 
 
 
 

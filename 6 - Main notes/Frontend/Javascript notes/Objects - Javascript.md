@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [JavaScript](3%20-%20Tags/JavaScript.md)
+Tags: [JavaScript](../../../3%20-%20Tags/JavaScript.md)
 
 ---
 # Objects - Javascript
@@ -145,5 +145,5 @@ let myObject = {
 
 ---
 ## References
-[Referencing, copying, cloning and merging an Object - Javascript](6%20-%20Main%20notes/Frontend/Javascript%20notes/Referencing,%20copying,%20cloning%20and%20merging%20an%20Object%20-%20Javascript.md)
-[this - Object Methods in Javascript](6%20-%20Main%20notes/Frontend/Javascript%20notes/this%20-%20Object%20Methods%20in%20Javascript.md)
+[Referencing, copying, cloning and merging an Object - Javascript](Referencing,%20copying,%20cloning%20and%20merging%20an%20Object%20-%20Javascript.md)
+[this - Object Methods in Javascript](this%20-%20Object%20Methods%20in%20Javascript.md)

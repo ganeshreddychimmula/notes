@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [Interview Prep](3%20-%20Tags/Interview%20Prep.md)
+Tags: [Interview Prep](../3%20-%20Tags/Interview%20Prep.md)
 
 ---
 # Interview prep 07-07-25
@@ -20,19 +20,19 @@ These test knowledge of the language itself—variables, functions, scoping, hoi
     - var and let are mutable
     - variable declared with const is not reassignable.
 	-  > Avoid **`var`** in modern JavaScript—it's error-prone due to its function scope and hoisting behavior. 
-	- [What is the difference between var, let, and const - JavaScript](6%20-%20Main%20notes/Frontend/Javascript%20notes/What%20is%20the%20difference%20between%20var,%20let,%20and%20const%20-%20JavaScript.md)
+	- [What is the difference between var, let, and const - JavaScript](Frontend/Javascript%20notes/What%20is%20the%20difference%20between%20var,%20let,%20and%20const%20-%20JavaScript.md)
 2. Explain **hoisting**. What gets hoisted in JavaScript?
 	- Hoisting is a phenomena where a function or variable declared acts like its declared at top of the scope and can be accessed anywhere.
 	- **Hoisting** is JavaScript’s behavior of **moving declarations to the top** of their containing scope (global or function) during the **compilation phase**—before the code is executed.
 		- Let and const are hoisted but cannot be used before declaration -  **Temporal Dead Zone** (TDZ)
-	- [Hoisting - Javascript](6%20-%20Main%20notes/Frontend/Javascript%20notes/Hoisting%20-%20Javascript.md)
+	- [Hoisting - Javascript](Frontend/Javascript%20notes/Hoisting%20-%20Javascript.md)
     
 3. What is a **closure**? Can you give a practical example?
 	- A **closure** is formed when an **inner function remembers and continues to access variables** from its **outer function’s scope**, even **after the outer function has returned**. 
 	- [ closure - Javascript](%20closure%20-%20Javascript)
     
 4. What are **truthy** and **falsy** values in JavaScript?
-	- [Truthy and Falsy Values - JavaScript](6%20-%20Main%20notes/Frontend/Javascript%20notes/Truthy%20and%20Falsy%20Values%20-%20JavaScript.md)
+	- [Truthy and Falsy Values - JavaScript](Frontend/Javascript%20notes/Truthy%20and%20Falsy%20Values%20-%20JavaScript.md)
     - 
 5. What is the difference between `==` and `===`?
 	- Loose equality vs strict equality
@@ -41,13 +41,13 @@ These test knowledge of the language itself—variables, functions, scoping, hoi
 6. What is the difference between **null** and **undefined**?
     - `null` means intentional absence.
     - `Undefined` means unintentional absence.
-    - [null vs undefined - Javascript](6%20-%20Main%20notes/Frontend/Javascript%20notes/null%20vs%20undefined%20-%20Javascript.md)
+    - [null vs undefined - Javascript](Frontend/Javascript%20notes/null%20vs%20undefined%20-%20Javascript.md)
 7. How does **event delegation** work in JavaScript?
     - **Event Delegation** is a pattern where instead of adding event listeners to many individual child elements, you add **one event listener to a common parent** and **use `event.target` to detect which child triggered the event.**
-    - [Event delegation - JavaScript](6%20-%20Main%20notes/Frontend/Javascript%20notes/Event%20delegation%20-%20JavaScript.md)
+    - [Event delegation - JavaScript](Frontend/Javascript%20notes/Event%20delegation%20-%20JavaScript.md)
 8. What are **arrow functions** and how are they different from regular functions?
    - Arrow function do not bind "this"
-   - [Arrow Function and how it is different from others - Javascript](6%20-%20Main%20notes/Frontend/Javascript%20notes/Arrow%20Function%20and%20how%20it%20is%20different%20from%20others%20-%20Javascript.md)
+   - [Arrow Function and how it is different from others - Javascript](Frontend/Javascript%20notes/Arrow%20Function%20and%20how%20it%20is%20different%20from%20others%20-%20Javascript.md)
     
 10. What is a **callback function**? Can you provide an example?
     - > A **callback function** is a **function passed as an argument** to another function — and is **called ("called back") later**, usually after some operation is complete.
@@ -57,7 +57,7 @@ These test knowledge of the language itself—variables, functions, scoping, hoi
     - 
 13. What are **template literals** and how do they help?
 	- **Template literals** (also called **template strings**) are one of JavaScript's most useful modern features introduced in **ES6** — they make working with strings much easier and more readable.
-	- [Template literals - Javascript](6%20-%20Main%20notes/Frontend/Javascript%20notes/Template%20literals%20-%20Javascript.md)
+	- [Template literals - Javascript](Frontend/Javascript%20notes/Template%20literals%20-%20Javascript.md)
 14. What does `"use strict"` do in JavaScript?
 15. 
     

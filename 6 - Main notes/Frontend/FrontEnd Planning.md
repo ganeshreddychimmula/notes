@@ -3,7 +3,7 @@
 
 Status: 
 
-Tags: [Roadmap](3%20-%20Tags/Roadmap.md) [FrontEnd](3%20-%20Tags/FrontEnd.md) 
+Tags: [Roadmap](../../3%20-%20Tags/Roadmap.md) [FrontEnd](../../3%20-%20Tags/FrontEnd.md) 
 
 ---
 # React Planning
@@ -136,9 +136,9 @@ Tags: [Roadmap](3%20-%20Tags/Roadmap.md) [FrontEnd](3%20-%20Tags/FrontEnd.md)
 
 ---
 ## References
-[6-Month Full-Stack AI Developer Roadmap (React + TypeScript to Agentic AI)](2%20-%20Source%20Material/Resources/6-Month%20Full-Stack%20AI%20Developer%20Roadmap%20(React%20+%20TypeScript%20to%20Agentic%20AI).md)
-[Front End Resources](2%20-%20Source%20Material/Resources/Front%20End%20Resources.md)
-[React Resources](2%20-%20Source%20Material/Resources/React%20Resources.md)
-[Fullstackopen Course](6%20-%20Main%20notes/Frontend/Fullstackopen%20Course.md)
-[Tailwind CSS](6%20-%20Main%20notes/Frontend/Tailwind%20CSS.md)
-[Advanced React - scrimba](6%20-%20Main%20notes/Frontend/React/Advanced%20React%20-%20scrimba.md)
+[6-Month Full-Stack AI Developer Roadmap (React + TypeScript to Agentic AI)](React%20+%20TypeScript%20to%20Agentic%20AI)).md)
+[Front End Resources](../../2%20-%20Source%20Material/Resources/Front%20End%20Resources.md)
+[React Resources](../../2%20-%20Source%20Material/Resources/React%20Resources.md)
+[Fullstackopen Course](Fullstackopen%20Course.md)
+[Tailwind CSS](Tailwind%20CSS.md)
+[Advanced React - scrimba](React/Advanced%20React%20-%20scrimba.md)

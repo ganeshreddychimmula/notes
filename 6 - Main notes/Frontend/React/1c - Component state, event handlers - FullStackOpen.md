@@ -9,7 +9,7 @@ Tags:
 # 1c - Component state, event handlers - FullStackOpen
 
 ### Destructuring
-[Destructuring Concept](6%20-%20Main%20notes/Frontend/Javascript%20notes/Destructuring%20Concept.md)
+[Destructuring Concept](../Javascript%20notes/Destructuring%20Concept.md)
 
 ### Passing state - to child components
 It's recommended to write React components that are small and reusable across the application and even across projects

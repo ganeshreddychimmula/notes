@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [Career Thoughts](3%20-%20Tags/Career%20Thoughts.md)[Career](3%20-%20Tags/Career.md) [Future](3%20-%20Tags/Future.md) 
+Tags: [Career Thoughts](../../3%20-%20Tags/Career%20Thoughts.md)[Career](../../3%20-%20Tags/Career.md) [Future](../../3%20-%20Tags/Future.md) 
 
 ---
 ## Impact of Big Beautiful Bill on IT Jobs

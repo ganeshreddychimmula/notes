@@ -3,7 +3,7 @@
 
 Status: 
 
-Tags: [React](3%20-%20Tags/React.md)
+Tags: [React](../../../3%20-%20Tags/React.md)
 
 ---
 ## 🔁 Functional Programming in React – Explained
@@ -155,4 +155,4 @@ useEffect(() => {
 ---
 ## References
 
-[Functional vs Class Components in React](6%20-%20Main%20notes/Frontend/React/Functional%20vs%20Class%20Components%20in%20React.md)
+[Functional vs Class Components in React](Functional%20vs%20Class%20Components%20in%20React.md)

@@ -3,23 +3,23 @@
 
 Status:
 
-Tags: [Article](3%20-%20Tags/Article.md)
+Tags: [Article](../../3%20-%20Tags/Article.md)
 
 ---
 # AHA Programming
 https://kentcdodds.com/blog/aha-programming
 
-[DRY (an acronym for "Don't Repeat Yourself")](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
+[DRY (an acronym for "Don't Repeat Yourself")](an%20acronym%20for%20"Don't%20Repeat%20Yourself"))
 
 > Every piece of knowledge must have a single, unambiguous, authoritative representation within a system
 
 - The problem with multiple instances of same code is, if you find a bug, add info, or generally better way of doing it, you need to change the code everywhere.
 
-## [WET](https://kentcdodds.com/blog/aha-programming#wet)
+## [](https://kentcdodds.com/blog/aha-programming#wet)
 "Write Everything Twice."
 > You can ask yourself "Haven't I written this before?" two times, but never three.
 
-## [AHA 💡](https://kentcdodds.com/blog/aha-programming#aha-) 
+## [](https://kentcdodds.com/blog/aha-programming#aha-) 
 >  Avoid Hasty Abstractions
 
 > Prefer duplication over the wrong abstraction

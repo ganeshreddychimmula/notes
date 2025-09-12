@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [JavaScript](3%20-%20Tags/JavaScript.md)
+Tags: [JavaScript](../../../3%20-%20Tags/JavaScript.md)
 
 ---
 # 1b - Javascript - Fullstackopen
@@ -15,7 +15,7 @@ Tags: [JavaScript](3%20-%20Tags/JavaScript.md)
 - It is also possible to write JavaScript code into the Node.js console, which is opened by typing _node_ in the command line, as well as into the browser's developer tool console. [The newest revisions of Chrome handle the newer features of JavaScript pretty well](https://compat-table.github.io/compat-table/es2016plus/) without transpiling the code. Alternatively, you can use a tool like [JS Bin](https://jsbin.com/?js,console).
 
 ### Variables
-[What is the difference between var, let, and const - JavaScript](6%20-%20Main%20notes/Frontend/Javascript%20notes/What%20is%20the%20difference%20between%20var,%20let,%20and%20const%20-%20JavaScript.md)
+[What is the difference between var, let, and const - JavaScript](What%20is%20the%20difference%20between%20var,%20let,%20and%20const%20-%20JavaScript.md)
 In JavaScript there are a few ways to go about defining variables:
 
 ```js
@@ -88,7 +88,7 @@ console.log(rest)          // [3, 4, 5] is printed
 Above, the variable _first_ is assigned the first integer of the array and the variable _second_ is assigned the second integer of the array. The variable _rest_ "collects" the remaining integers into its own array.
 
 ### Objects [^2]
-- There are a few different ways of defining objects in JavaScript. One very common method is using [object literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types#Object_literals).
+- There are a few different ways of defining objects in JavaScript. One very common method is using [](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types#Object_literals).
 - The properties of an object are referenced by using the "dot" notation, or by using brackets:
 - Objects can also be defined using so-called **constructor** functions, which results in a mechanism reminiscent of many other programming languages, e.g. Java's classes. Despite this similarity, JavaScript does not have classes in the same sense as object-oriented programming languages. There has been, however, the addition of the _class syntax_ starting from version ES6, which in some cases helps structure object-oriented classes.
 
@@ -186,10 +186,10 @@ As mentioned previously, there is no class mechanism in JavaScript like the ones
 
 ---
 ## References
-[^1]: [What is a Run Time Environment](6%20-%20Main%20notes/What%20is%20a%20Run%20Time%20Environment.md)
-[^2]: [Objects - Javascript](6%20-%20Main%20notes/Frontend/Javascript%20notes/Objects%20-%20Javascript.md)
-[^3]: [Arrow Function and how it is different from others - Javascript](6%20-%20Main%20notes/Frontend/Javascript%20notes/Arrow%20Function%20and%20how%20it%20is%20different%20from%20others%20-%20Javascript.md)
-[^4]: [Different ways to define or declare Functions](6%20-%20Main%20notes/Frontend/Javascript%20notes/Different%20ways%20to%20define%20or%20declare%20Functions.md)
-[^5]: [this - Object Methods in Javascript](6%20-%20Main%20notes/Frontend/Javascript%20notes/this%20-%20Object%20Methods%20in%20Javascript.md)
-[^6]: [Understand JavaScript's this Keyword in Depth - Javascript ](Understand%20JavaScript's%20this%20Keyword%20in%20Depth%20-%20Javascript%20)
-[^7]: [Classes - Javascript](6%20-%20Main%20notes/Frontend/Javascript%20notes/Classes%20-%20Javascript.md)
+[^1](../../What%20is%20a%20Run%20Time%20Environment.md)
+[^2](Objects%20-%20Javascript.md)
+[^3](Arrow%20Function%20and%20how%20it%20is%20different%20from%20others%20-%20Javascript.md)
+[^4](Different%20ways%20to%20define%20or%20declare%20Functions.md)
+[^5](this%20-%20Object%20Methods%20in%20Javascript.md)
+[^6](Understand%20JavaScript's%20this%20Keyword%20in%20Depth%20-%20Javascript%20)
+[^7](Classes%20-%20Javascript.md)

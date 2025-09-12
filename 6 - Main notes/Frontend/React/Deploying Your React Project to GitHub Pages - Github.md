@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [Github](3%20-%20Tags/Github.md) [React](3%20-%20Tags/React.md)
+Tags: [Github](../../../3%20-%20Tags/Github.md) [React](../../../3%20-%20Tags/React.md)
 
 ---
 # Deploying Your React Project to GitHub Pages - Github
@@ -318,7 +318,7 @@ This time, `npm run build` will create the `dist` folder, and `gh-pages -d dist`
 Remember to also ensure your GitHub Pages settings for the repository are configured to serve from the `gh-pages` branch and the `/ (root)` folder, as discussed in the previous steps.
 
 ## What am I doing wrong, even though I am running npm run deploy, the github live page is showing 404 error that it cannot retrieve  
-[^2]:  animal-shelter-donation-inventory/:9 GET [https://ganeshreddychimmula.github.io/assets/index-CXI0_HDg.css](vscode-file://vscode-app/c:/Users/gchim/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-browser/workbench/workbench.html) net::ERR_ABORTED 404 (Not Found)Understand this error  
+[^2](vscode-file://vscode-app/c:/Users/gchim/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-browser/workbench/workbench.html) net::ERR_ABORTED 404 (Not Found)Understand this error  
 animal-shelter-donation-inventory/:8 GET [https://ganeshreddychimmula.github.io/assets/index-BPpGXFa2.js](vscode-file://vscode-app/c:/Users/gchim/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-browser/workbench/workbench.html) net::ERR_ABORTED 404 (Not Found)
 
 ganeshreddychimmula: what would be the best commit message for the last changes  i did

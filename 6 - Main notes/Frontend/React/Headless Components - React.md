@@ -124,8 +124,8 @@ function App() {
 
 ReactDOM.createRoot(document.getElementById('root')).render(<App />);
 ```
-![Pasted image 20250723190149](2%20-%20Source%20Material/Media%20and%20other%20files/Pasted%20image%2020250723190149.png)
-![Pasted image 20250723190203](2%20-%20Source%20Material/Media%20and%20other%20files/Pasted%20image%2020250723190203.png)
+![Pasted image 20250723190149](../../../2%20-%20Source%20Material/Media%20and%20other%20files/Pasted%20image%2020250723190149.png)
+![Pasted image 20250723190203](../../../2%20-%20Source%20Material/Media%20and%20other%20files/Pasted%20image%2020250723190203.png)
 **FYI:** You can directly include toggle in menu components
 
 

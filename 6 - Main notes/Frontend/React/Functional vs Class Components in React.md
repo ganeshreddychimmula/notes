@@ -239,7 +239,7 @@ export default MemeGenerator;
 
 ---
 
-![Pasted image 20250702191627](2%20-%20Source%20Material/Media%20and%20other%20files/Pasted%20image%2020250702191627.png)
+![Pasted image 20250702191627](../../../2%20-%20Source%20Material/Media%20and%20other%20files/Pasted%20image%2020250702191627.png)
 
 
 

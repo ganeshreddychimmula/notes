@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [React](3%20-%20Tags/React.md) 
+Tags: [React](../../../3%20-%20Tags/React.md) 
 
 ---
 # Handling Static assets(like Images) in React
@@ -114,4 +114,4 @@ Place it in `public/` and reference it in `public/index.html`.
 
 ---
 ## References
-[Why should we import Assets instead of using its path - React](6%20-%20Main%20notes/Frontend/React/Why%20should%20we%20import%20Assets%20instead%20of%20using%20its%20path%20-%20React.md)
+[Why should we import Assets instead of using its path - React](Why%20should%20we%20import%20Assets%20instead%20of%20using%20its%20path%20-%20React.md)

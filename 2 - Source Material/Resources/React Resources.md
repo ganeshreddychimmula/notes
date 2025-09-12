@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [React](3%20-%20Tags/React.md) [Resources](3%20-%20Tags/Resources.md) [FrontEnd](3%20-%20Tags/FrontEnd.md)
+Tags: [React](../../3%20-%20Tags/React.md) [Resources](../../3%20-%20Tags/Resources.md) [FrontEnd](../../3%20-%20Tags/FrontEnd.md)
 
 ---
 # React Resources

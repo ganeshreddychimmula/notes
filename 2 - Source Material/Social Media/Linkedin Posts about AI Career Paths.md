@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [AI](3%20-%20Tags/AI.md) [ML](3%20-%20Tags/ML.md) [Resources](3%20-%20Tags/Resources.md)
+Tags: [AI](../../3%20-%20Tags/AI.md) [ML](../../3%20-%20Tags/ML.md) [Resources](../../3%20-%20Tags/Resources.md)
 
 ---
 # Linkedin Posts about AI Career Paths

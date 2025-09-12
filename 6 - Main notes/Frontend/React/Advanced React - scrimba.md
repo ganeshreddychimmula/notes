@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [React](3%20-%20Tags/React.md)
+Tags: [React](../../../3%20-%20Tags/React.md)
 
 ---
 # Advanced React - scrimba
@@ -109,8 +109,8 @@ These libraries are specifically designed to help construct `className` strings 
 ### 5. Prop Drilling 
 
 Prop drilling happens when a component deep down in the component tree needs access to data that originates from a grandparent (or higher) component, and this data is manually passed down through each intermediate child component until it reaches the component that actually needs it. 
-![Pasted image 20250720191015](2%20-%20Source%20Material/Media%20and%20other%20files/Pasted%20image%2020250720191015.png)The above diagram illustrates this, showing "State" at the top and "Props" being passed down through many layers of components to a deeply nested one.
-![Pasted image 20250720205846](2%20-%20Source%20Material/Media%20and%20other%20files/Pasted%20image%2020250720205846.png)
+![Pasted image 20250720191015](../../../2%20-%20Source%20Material/Media%20and%20other%20files/Pasted%20image%2020250720191015.png)The above diagram illustrates this, showing "State" at the top and "Props" being passed down through many layers of components to a deeply nested one.
+![Pasted image 20250720205846](../../../2%20-%20Source%20Material/Media%20and%20other%20files/Pasted%20image%2020250720205846.png)
 
 
 **Solutions to Prop Drilling:**
@@ -133,11 +133,11 @@ Prop drilling happens when a component deep down in the component tree needs acc
 - They leverage`props.children` to compose their parts. The benefit is that they flatten the structure and make it easier to pass props to deeply-nested components. They also often have dedicated functions or styling 25and make the component structure more transparent.
 
 **How it relates:** Compound components are a direct solution to managing complex component interactions and can alleviate prop drilling by allowing child components to implicitly access shared context or state provided by the parent compound component, rather than explicitly passing props through many layers. They heavily rely on the `children` prop to enable flexible composition.
-![Pasted image 20250720205905](2%20-%20Source%20Material/Media%20and%20other%20files/Pasted%20image%2020250720205905.png)
+![Pasted image 20250720205905](../../../2%20-%20Source%20Material/Media%20and%20other%20files/Pasted%20image%2020250720205905.png)
 
 
 ### 7.   Implicit State
-![Pasted image 20250720210403](2%20-%20Source%20Material/Media%20and%20other%20files/Pasted%20image%2020250720210403.png)
+![Pasted image 20250720210403](../../../2%20-%20Source%20Material/Media%20and%20other%20files/Pasted%20image%2020250720210403.png)
 While the example _shows_ the structure, for `MenuButton` to actually _toggle_ the `MenuDropdown`'s visibility, the `Menu` component needs to share its `open` state and `toggle` function with its children. The two primary methods for this in Compound Components are:
 - `React.Children` - API provided by React( not top be confused with props.children)
 - `Context`
@@ -356,8 +356,8 @@ function App() {
 
 ReactDOM.createRoot(document.getElementById('root')).render(<App />);
 ```
-![Pasted image 20250723190149](2%20-%20Source%20Material/Media%20and%20other%20files/Pasted%20image%2020250723190149.png)
-![Pasted image 20250723190203](2%20-%20Source%20Material/Media%20and%20other%20files/Pasted%20image%2020250723190203.png)
+![Pasted image 20250723190149](../../../2%20-%20Source%20Material/Media%20and%20other%20files/Pasted%20image%2020250723190149.png)
+![Pasted image 20250723190203](../../../2%20-%20Source%20Material/Media%20and%20other%20files/Pasted%20image%2020250723190203.png)
 - You can directly include toggle in menu components
 
 ### 12. useRef() [^12]
@@ -408,7 +408,7 @@ function App() {
 ```
 
 ### 14. Custom Hooks [^14]
-- ![Pasted image 20250818130755](2%20-%20Source%20Material/Media%20and%20other%20files/Pasted%20image%2020250818130755.png)
+- ![Pasted image 20250818130755](../../../2%20-%20Source%20Material/Media%20and%20other%20files/Pasted%20image%2020250818130755.png)
 - Combining Existing hooks into custom, reusable pieces of logic 
 - Similar to regular utility functions, but use hooks to access the render cycles of React.
 ```jsx
@@ -416,15 +416,15 @@ function App() {
 
 ---
 ## References
-[^1]: [Some instances where props.children is useful - React](6%20-%20Main%20notes/Frontend/React/Some%20instances%20where%20props.children%20is%20useful%20-%20React.md)
-[^3]: [props de-structuring and its importance - React](6%20-%20Main%20notes/Frontend/React/props%20de-structuring%20and%20its%20importance%20-%20React.md)
-[^5]: [AHA Programming ](AHA%20Programming%20)
-[^6]: [Compound components - React](6%20-%20Main%20notes/Frontend/React/Compound%20components%20-%20React.md) 
-[^8]: [React.Children and React.cloneElement()](6%20-%20Main%20notes/Frontend/React/React.Children%20and%20React.cloneElement().md)
-[^9]: [React Context](6%20-%20Main%20notes/Frontend/React/React%20Context.md)
-[^10]: [Compound components with dot syntax - React](6%20-%20Main%20notes/Frontend/React/Compound%20components%20with%20dot%20syntax%20-%20React.md)
-[^11]: [Headless Components - React](6%20-%20Main%20notes/Frontend/React/Headless%20Components%20-%20React.md)
-[^12]: [useRef()- React](6%20-%20Main%20notes/Frontend/React/useRef()-%20React.md)
-[^13]: [Render props - React](6%20-%20Main%20notes/Frontend/React/Render%20props%20-%20React.md)
-[^14]: [Custom hooks - React](6%20-%20Main%20notes/Frontend/React/Custom%20hooks%20-%20React.md)
-[React Router 6](6%20-%20Main%20notes/Frontend/React/React%20Router%206.md)
+[^1](Some%20instances%20where%20props.children%20is%20useful%20-%20React.md)
+[^3](props%20de-structuring%20and%20its%20importance%20-%20React.md)
+[^5](AHA%20Programming%20)
+[^6](Compound%20components%20-%20React.md) 
+[^8]()).md)
+[^9](React%20Context.md)
+[^10](Compound%20components%20with%20dot%20syntax%20-%20React.md)
+[^11](Headless%20Components%20-%20React.md)
+[^12]()-%20React)-%20React.md)
+[^13](Render%20props%20-%20React.md)
+[^14](Custom%20hooks%20-%20React.md)
+[React Router 6](React%20Router%206.md)

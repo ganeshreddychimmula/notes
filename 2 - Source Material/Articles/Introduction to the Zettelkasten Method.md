@@ -64,7 +64,7 @@ Let us begin with the most important traits of a Zettelkasten:
 
 In contrast, referring to an atomic note is unambiguous: when you reference it, you will know what the ‘thought’ is. There should be no room for guesswork. That is what the rule of atomicity means: Make sure that the layer of content and the boundaries between notes match and are well defined. Then and only then can it be a reference to an address identical to referencing a thought.
 
-![Pasted image 20250623174107](2%20-%20Source%20Material/Media%20and%20other%20files/Pasted%20image%2020250623174107.png)
+![Pasted image 20250623174107](../Media%20and%20other%20files/Pasted%20image%2020250623174107.png)
 
 1. **A unique identifier**. This gives your Zettel an unambiguous address.
     
@@ -81,12 +81,12 @@ The length of a Zettel is directly tied to what kind of hypertext you want to cr
 In practice, **you need to compromise between taking broad notes and focusing on your current projects.** You cannot just take random notes on what you are interested in and expect to get anything done. So, use your current projects as golden threads to guide your work while allowing a bit of deviation from this path. The amount of deviation depends on what your deadline is.
 
 The benefit of this habit is that you can maintain a flow of writing much more. I cannot count the many good ideas and texts I wrote while technically working on another project. By keeping the flow going you will produce more useful thoughts and text in the long run. The limits of this practice are the how much you _need_ to achieve in the short-term.
-![Pasted image 20250623175741](2%20-%20Source%20Material/Media%20and%20other%20files/Pasted%20image%2020250623175741.png)
+![Pasted image 20250623175741](../Media%20and%20other%20files/Pasted%20image%2020250623175741.png)
 Those byproducts are not waste. In the long run, they become valuable knowledge for your future projects. Also, they form connections to other parts of your Zettelkasten and will enrich your personal learning experience while working with the Zettelkasten.
 
 The reference part at the bottom of your Zettel states the sources of the information. The footer is the right place for external sources like books or articles from the web.
 
-![Pasted image 20250623180411](2%20-%20Source%20Material/Media%20and%20other%20files/Pasted%20image%2020250623180411.png)
+![Pasted image 20250623180411](../Media%20and%20other%20files/Pasted%20image%2020250623180411.png)
 
 
 ## References

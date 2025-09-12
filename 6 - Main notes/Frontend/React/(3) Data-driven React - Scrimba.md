@@ -3,7 +3,7 @@
 
 Status:
 
-Tags:[React](3%20-%20Tags/React.md)
+Tags:[React](../../../3%20-%20Tags/React.md)
 
 ---
 # Data-driven React
@@ -14,5 +14,5 @@ Tags:[React](3%20-%20Tags/React.md)
 ---
 ## References
 
-[Props - React](6%20-%20Main%20notes/Frontend/React/Props%20-%20React.md)
-[How React handles or renders Arrays](6%20-%20Main%20notes/Frontend/React/How%20React%20handles%20or%20renders%20Arrays.md)
+[Props - React](Props%20-%20React.md)
+[How React handles or renders Arrays](How%20React%20handles%20or%20renders%20Arrays.md)

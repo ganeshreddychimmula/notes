@@ -103,4 +103,4 @@ In essence, props destructuring is a best practice in modern React development t
 
 ---
 ## References
-[^1]: [Destructuring Concept](6%20-%20Main%20notes/Frontend/Javascript%20notes/Destructuring%20Concept.md)
+[^1](../Javascript%20notes/Destructuring%20Concept.md)

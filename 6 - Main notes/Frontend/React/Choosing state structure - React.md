@@ -7,7 +7,7 @@ Tags:
 
 ---
 # [Choosing state structure - React](https://react.dev/learn/choosing-the-state-structure)
-## Principles for structuring state [](https://react.dev/learn/choosing-the-state-structure#principles-for-structuring-state "Link for Principles for structuring state")
+## Principles for structuring state [](https://react.dev/learn/choosing-the-state-structure#principles-for-structuring-state%20"Link%20for%20Principles%20for%20structuring%20state")
 
 When you write a component that holds some state, you’ll have to make choices about how many state variables to use and what the shape of their data should be. While it’s possible to write correct programs even with a suboptimal state structure, there are a few principles that can guide you to make better choices:
 

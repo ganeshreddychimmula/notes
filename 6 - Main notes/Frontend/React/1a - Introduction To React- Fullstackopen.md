@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [React](3%20-%20Tags/React.md)
+Tags: [React](../../../3%20-%20Tags/React.md)
 
 ---
 # 1a - Introduction To React- Fullstackopen
@@ -28,7 +28,7 @@ npm run dev
 ```
 
 ### Component
-[Creating a React Component](6%20-%20Main%20notes/Frontend/React/Creating%20a%20React%20Component.md)
+[Creating a React Component](Creating%20a%20React%20Component.md)
 ```js
 ReactDOM.createRoot(document.getElementById('root')).render(<App />)
 ```
@@ -39,14 +39,14 @@ The first rule of frontend web development:
 > _keep the console open all the time_> 
 
 ### JSX
-[(2) JSX React](6%20-%20Main%20notes/Frontend/React/(2)%20JSX%20React.md) 
+[(2) JSX React](2)%20JSX%20React)%20JSX%20React.md) 
 It seems like React components are returning HTML markup. However, this is not the case. The layout of React components is mostly written using [JSX](https://react.dev/learn/writing-markup-with-jsx). Although JSX looks like HTML, we are dealing with a way to write JavaScript. Under the hood, JSX returned by React components is compiled into JavaScript.
 - It is also possible to write React as "pure JavaScript"(using createReact) without using JSX. Although, nobody with a sound mind would do so.
 - In practice, JSX is much like HTML with the distinction that with JSX you can easily embed dynamic content by writing appropriate JavaScript within curly braces. The idea of JSX is quite similar to many templating languages, such as Thymeleaf used along with Java Spring, which are used on servers.
 - JSX is "[XML](https://developer.mozilla.org/en-US/docs/Web/XML/XML_introduction)-like", which means that every tag needs to be closed.
 - Indeed, a core philosophy of React is composing applications from many specialized reusable components.[^2]
 ### props: passing data to components
-[Props - React](6%20-%20Main%20notes/Frontend/React/Props%20-%20React.md)
+[Props - React](Props%20-%20React.md)
 
 ### Possible error message
 
@@ -151,5 +151,5 @@ const App = () => {
 
 ---
 ## References
-[^1]: [Setting Up React Locally with Vite](2%20-%20Source%20Material/FrontEnd%20Material/React/Setting%20Up%20React%20Locally%20with%20Vite.md)
-[^2]: [Composability in React and why its important](6%20-%20Main%20notes/Frontend/React/Composability%20in%20React%20and%20why%20its%20important.md)
+[^1](../../../2%20-%20Source%20Material/FrontEnd%20Material/React/Setting%20Up%20React%20Locally%20with%20Vite.md)
+[^2](Composability%20in%20React%20and%20why%20its%20important.md)

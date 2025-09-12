@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [FrontEnd](3%20-%20Tags/FrontEnd.md)
+Tags: [FrontEnd](../../../3%20-%20Tags/FrontEnd.md)
 
 ---
 # What does Full Stack Web development mean?

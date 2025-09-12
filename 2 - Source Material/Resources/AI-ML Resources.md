@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [AI](3%20-%20Tags/AI.md) [ML](3%20-%20Tags/ML.md) [Resources](3%20-%20Tags/Resources.md) [Read later](3%20-%20Tags/Read%20later.md)
+Tags: [AI](../../3%20-%20Tags/AI.md) [ML](../../3%20-%20Tags/ML.md) [Resources](../../3%20-%20Tags/Resources.md) [Read later](../../3%20-%20Tags/Read%20later.md)
 
 ---
 # AI-ML Resources

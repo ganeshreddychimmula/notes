@@ -85,5 +85,5 @@ Yes, as Nick Milo demonstrates, the Zettelkasten method, while initially requiri
 ---
 ## References
 
-[Introduction to the Zettelkasten Method](2%20-%20Source%20Material/Articles/Introduction%20to%20the%20Zettelkasten%20Method.md) - General use of the method
-[1 - Zettelkasten Guide](6%20-%20Main%20notes/1%20-%20Zettelkasten%20Guide.md) - general guide, like what goes where
+[Introduction to the Zettelkasten Method](../Articles/Introduction%20to%20the%20Zettelkasten%20Method.md) - General use of the method
+[1 - Zettelkasten Guide](../../6%20-%20Main%20notes/1%20-%20Zettelkasten%20Guide.md) - general guide, like what goes where

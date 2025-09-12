@@ -1,7 +1,7 @@
 
 2025-07-20 19:17
 
-Status: [React](3%20-%20Tags/React.md)
+Status: [React](../../../3%20-%20Tags/React.md)
 
 Tags: 
 
@@ -278,4 +278,4 @@ By understanding and applying the Compound Components pattern, especially with t
 
 ---
 ## References
-[React Context](6%20-%20Main%20notes/Frontend/React/React%20Context.md)
+[React Context](React%20Context.md)

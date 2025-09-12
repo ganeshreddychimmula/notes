@@ -3,7 +3,7 @@
 
 Status:
 
-Tags:[React](3%20-%20Tags/React.md) [JavaScript](3%20-%20Tags/JavaScript.md)
+Tags:[React](../../../3%20-%20Tags/React.md) [JavaScript](../../../3%20-%20Tags/JavaScript.md)
 
 ---
 # Destructuring Concept
