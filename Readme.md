@@ -14,3 +14,7 @@ Please be aware that these notes are primarily written and maintained for my per
     
 
 Despite these limitations, I hope the text content itself can provide some value. Thank you for visiting!
+
+Suggestions:
+[React](4%20-%20Indexes/React.md)
+[Articles](\2 - Source Material\Articles)

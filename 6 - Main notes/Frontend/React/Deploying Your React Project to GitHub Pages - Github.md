@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [[Github]] [[React]]
+Tags: [[Github]] [[../../../3 - Tags/React]]
 
 ---
 # Deploying Your React Project to GitHub Pages - Github

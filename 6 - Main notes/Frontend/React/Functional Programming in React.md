@@ -3,7 +3,7 @@
 
 Status: 
 
-Tags: [[React]]
+Tags: [[../../../3 - Tags/React]]
 
 ---
 ## 🔁 Functional Programming in React – Explained

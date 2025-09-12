@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [[Setup]] [[React]]
+Tags: [[Setup]] [[../../../3 - Tags/React]]
 
 
 ---

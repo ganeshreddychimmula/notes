@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [[React]] [[Styles] 
+Tags: [[../../../3 - Tags/React]] [[Styles] 
 
 ---
 # Styling with classes in React

@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [[React]]
+Tags: [[../../../3 - Tags/React]]
 
 ---
 # Composability in React and why its important

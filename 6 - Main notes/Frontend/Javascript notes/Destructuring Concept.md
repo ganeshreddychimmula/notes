@@ -3,7 +3,7 @@
 
 Status:
 
-Tags:[[React]] [[JavaScript]]
+Tags:[[../../../3 - Tags/React]] [[JavaScript]]
 
 ---
 # Destructuring Concept

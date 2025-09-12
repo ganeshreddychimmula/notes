@@ -3,7 +3,7 @@
 
 Status: #ReadLater #careerThoughts 
 
-Tags: [[FrontEnd]] [[React]] [[Read later]] 
+Tags: [[FrontEnd]] [[../../3 - Tags/React]] [[Read later]] 
 
 ---
 # Why ‘Full-Stack’ is Losing Meaning – and What Replaces It

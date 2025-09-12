@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [[React]]
+Tags: [[../../../3 - Tags/React]]
 
 ---
 # Why do we need React

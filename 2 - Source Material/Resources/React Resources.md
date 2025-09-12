@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [[React]] [[Resources]] [[FrontEnd]]
+Tags: [[../../3 - Tags/React]] [[Resources]] [[FrontEnd]]
 
 ---
 # React Resources

@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [[React]] [[Markdown Guide]]
+Tags: [[../../../3 - Tags/React]] [[Markdown Guide]]
 
 ---
 # React package to turn Markdown into React Elements

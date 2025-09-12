@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [[React]] [[React Router]]
+Tags: [[../../../3 - Tags/React]] [[React Router]]
 
 ---
 # React Router 6
