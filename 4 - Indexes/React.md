@@ -40,12 +40,12 @@ This section covers the foundational concepts of React, including why you should
     
     - **Introduction to React:** Overviews from Scrimba and Fullstackopen.
         
-        - [(1) Introduction to React - Scrimba](1)%20Introduction%20to%20React%20-%20Scrimba)%20Introduction%20to%20React%20-%20Scrimba.md)
+        - [(1) Introduction to React - Scrimba](../2%20-%20Source%20Material/FrontEnd%20Material/React/(1)%20Introduction%20to%20React%20-%20Scrimba.md)
         - [1a - Introduction To React- Fullstackopen](../6%20-%20Main%20notes/Frontend/React/1a%20-%20Introduction%20To%20React-%20Fullstackopen.md)
             
     - **JSX:** Learn the syntax that allows you to write HTML-like code in your JavaScript files.
         
-        - [(2) JSX React](2)%20JSX%20React)%20JSX%20React.md)
+        - [2 - JSX React](../6%20-%20Main%20notes/Frontend/React/2%20-%20JSX%20React.md)
             
         - [CreateElement React](../6%20-%20Main%20notes/Frontend/React/CreateElement%20React.md)
             
@@ -68,7 +68,7 @@ This section covers the foundational concepts of React, including why you should
             
     - **File Structure:** Best practices for organizing your React projects.
         
-        - [Why do we need to different files (index.jsx and app.jsx) in React projects](index.jsx%20and%20app.jsx)%20in%20React%20projects)%20in%20React%20projects.md)
+        - [Why do we need to different files (index.jsx and app.jsx) in React projects](../6%20-%20Main%20notes/Frontend/React/Why%20do%20we%20need%20to%20different%20files%20(index.jsx%20and%20app.jsx)%20in%20React%20projects.md)
             
 
 ### **2. Working with Components**
@@ -101,7 +101,7 @@ Dive deeper into how components work, how they are styled, and how they communic
             
     - **Handling Assets:** Best practices for importing images and other static files.
         
-        - [Handling Static assets(Like images) in React](Like%20images)%20in%20React)%20in%20React.md)
+        -[Handling Static assets(Like images) in React](../6%20-%20Main%20notes/Frontend/React/Handling%20Static%20assets(Like%20images)%20in%20React.md)
             
         - [Why should we import Assets instead of using its path - React](../6%20-%20Main%20notes/Frontend/React/Why%20should%20we%20import%20Assets%20instead%20of%20using%20its%20path%20-%20React.md)
             
@@ -121,7 +121,7 @@ Dive deeper into how components work, how they are styled, and how they communic
     
     - **Data-driven UI:** How to render components from an array of data.
         
-        - [(3) Data-driven React - Scrimba](3)%20Data-driven%20React%20-%20Scrimba)%20Data-driven%20React%20-%20Scrimba.md)
+        - [(3) Data-driven React - Scrimba](../6%20-%20Main%20notes/Frontend/React/(3)%20Data-driven%20React%20-%20Scrimba.md)
             
     - **`map()` and `key`:** The essentials for rendering lists.
         
@@ -142,7 +142,7 @@ Understand how to manage data that changes over time within your components.
     
     - **Introduction to State:** The core of dynamic UIs.
         
-        - [(4) State in React - Scimba](4)%20State%20in%20React%20-%20Scimba)%20State%20in%20React%20-%20Scimba.md)
+        - [(4) State in React - Scimba](../6%20-%20Main%20notes/Frontend/React/(4)%20State%20in%20React%20-%20Scimba.md)
             
         - [1c - Component state, event handlers - FullStackOpen](../6%20-%20Main%20notes/Frontend/React/1c%20-%20Component%20state,%20event%20handlers%20-%20FullStackOpen.md)
             
@@ -184,15 +184,15 @@ Understand how to manage data that changes over time within your components.
             
     - **`useEffect`:** For handling side effects like API calls.
         
-        - [(5) Side Effects - React Scrimba](5)%20Side%20Effects%20-%20React%20Scrimba)%20Side%20Effects%20-%20React%20Scrimba.md)
+        - [(5) Side Effects - React Scrimba](../6%20-%20Main%20notes/Frontend/React/(5)%20Side%20Effects%20-%20React%20Scrimba.md)
             
         - [useEffect - side effects in React](../6%20-%20Main%20notes/Frontend/React/useEffect%20-%20side%20effects%20in%20React.md)
             
-        - [Using fetch() in React]()%20in%20React)%20in%20React.md)
+        - [Using fetch() in React](../6%20-%20Main%20notes/Frontend/React/Using%20fetch()%20in%20React.md)
             
     - **`useRef`:** For accessing DOM elements and storing mutable values.
         
-        - [useRef()- React]()-%20React)-%20React.md)
+        - [useRef()- React](../6%20-%20Main%20notes/Frontend/React/useRef()-%20React.md)
             
         - [Why not to read or write refs during rendering - React](../6%20-%20Main%20notes/Frontend/React/Why%20not%20to%20read%20or%20write%20refs%20during%20rendering%20-%20React.md)
             
@@ -239,7 +239,7 @@ Explore more advanced patterns and techniques for building robust React applicat
             
     - **Advanced Prop Techniques:**
         
-- [React.Children and React.cloneElement()]()).md)
+- [React.Children and React.cloneElement()](../6%20-%20Main%20notes/Frontend/React/React.Children%20and%20React.cloneElement().md)
             
     - **Custom Hooks:**
         
