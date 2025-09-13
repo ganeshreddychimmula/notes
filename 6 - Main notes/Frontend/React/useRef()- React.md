@@ -270,4 +270,4 @@ let secondsPassed = (now - startTime) / 1000;
 
 ---
 ## References
-[^1](Why%20not%20to%20read%20or%20write%20refs%20during%20rendering%20-%20React.md)
+[^1]: [Why not to read or write refs during rendering - React](Why%20not%20to%20read%20or%20write%20refs%20during%20rendering%20-%20React.md)

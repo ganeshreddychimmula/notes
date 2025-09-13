@@ -3,7 +3,7 @@
 
 Status:
 
-Tags:
+Tags: [React](../../../3%20-%20Tags/React.md)
 
 ---
 # [Choosing state structure - React](https://react.dev/learn/choosing-the-state-structure)

@@ -162,4 +162,4 @@ Vanilla JS can mimic this structure, but **becomes hard to maintain** as complex
 ---
 ## References
 [Exporting and Importing components in React - Composability](Exporting%20and%20Importing%20components%20in%20React%20-%20Composability.md)
-[Why do we need to different files (index.jsx and app.jsx) in React projects](index.jsx%20and%20app.jsx)%20in%20React%20projects)%20in%20React%20projects.md) 
+[Why do we need to different files (index.jsx and app.jsx) in React projects](Why%20do%20we%20need%20to%20different%20files%20(index.jsx%20and%20app.jsx)%20in%20React%20projects.md)]

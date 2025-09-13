@@ -78,4 +78,5 @@ To end, here’s something to think about, linking feedback loops and the 80/20 
 
 ---
 ## References
-[Thinking in Systems by Donella H. Meadows (Author), Diana Wright (Editor)](Author),%20Diana%20Wright%20(Editor)),%20Diana%20Wright%20(Editor).md)
+[Thinking in Systems by Donella H. Meadows (Author), Diana Wright (Editor)](../Books/Thinking%20in%20Systems%20by%20Donella%20H.%20Meadows%20(Author),%20Diana%20Wright%20(Editor).md)
+

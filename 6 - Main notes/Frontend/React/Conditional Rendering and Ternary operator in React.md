@@ -3,7 +3,7 @@
 
 Status:
 
-Tags:
+Tags: [React](../../../3%20-%20Tags/React.md)
 
 ---
 # Conditional Rendering and Ternary operator in React

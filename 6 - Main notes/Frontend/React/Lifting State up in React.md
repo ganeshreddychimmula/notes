@@ -3,7 +3,7 @@
 
 Status:
 
-Tags:
+Tags: [React](../../../3%20-%20Tags/React.md)
 
 ---
 ## 🎛️ State Sharing and Prop Passing in React – Explained

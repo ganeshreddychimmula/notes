@@ -3,7 +3,7 @@
 
 Status:
 
-Tags:
+Tags: [React](../../../3%20-%20Tags/React.md)
 
 ---
 # Compound components with dot syntax - React
@@ -146,5 +146,5 @@ Use compound components with dot syntax when:
 
 ---
 ## References
-[^1](Render%20props%20-%20React.md)
-[^2](Headless%20Components%20-%20React.md)
+[^1]: [Render props - React](Render%20props%20-%20React.md)
+[^2]: [Headless Components - React](Headless%20Components%20-%20React.md)

@@ -3,7 +3,7 @@
 
 Status:
 
-Tags:
+Tags: [React](../../../3%20-%20Tags/React.md)
 
 ---
 # Why enclose props in flower brackets in JSX or in React
@@ -90,4 +90,4 @@ Think of JSX as a template engine.
 
 ---
 ## References
-[(2) JSX React](2)%20JSX%20React)%20JSX%20React.md)
+[2 - JSX React](2%20-%20JSX%20React.md)

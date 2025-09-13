@@ -3,7 +3,7 @@
 
 Status:
 
-Tags:[Hooks](Hooks)
+Tags:[Hooks](Hooks) [React](../../../3%20-%20Tags/React.md)
 
 ---
 # Why shouldn't we use hooks inside loops or conditions - React

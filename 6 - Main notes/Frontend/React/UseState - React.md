@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [Hooks](Hooks) [React](../../../3%20-%20Tags/React.md)]
+Tags: [Hooks](Hooks) [React](../../../3%20-%20Tags/React.md)
 
 ---
 # UseState - React
@@ -79,5 +79,5 @@ function handleClick() {
 
 ---
 ## References
-[^1](Why%20shouldn't%20we%20use%20hooks%20inside%20loops%20or%20conditions%20-%20React.md)
-[^2](Batching%20in%20React%20-%20Understanding%20how%20react%20efficiently%20updates%20UI.md)
+[^1]: [Why shouldn't we use hooks inside loops or conditions - React](Why%20shouldn't%20we%20use%20hooks%20inside%20loops%20or%20conditions%20-%20React.md)
+[^2]: [Batching in React - Understanding how react efficiently updates UI](Batching%20in%20React%20-%20Understanding%20how%20react%20efficiently%20updates%20UI.md)

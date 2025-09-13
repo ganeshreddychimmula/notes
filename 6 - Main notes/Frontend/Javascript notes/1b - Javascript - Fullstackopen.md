@@ -186,10 +186,10 @@ As mentioned previously, there is no class mechanism in JavaScript like the ones
 
 ---
 ## References
-[^1](../../What%20is%20a%20Run%20Time%20Environment.md)
-[^2](Objects%20-%20Javascript.md)
-[^3](Arrow%20Function%20and%20how%20it%20is%20different%20from%20others%20-%20Javascript.md)
-[^4](Different%20ways%20to%20define%20or%20declare%20Functions.md)
-[^5](this%20-%20Object%20Methods%20in%20Javascript.md)
-[^6](Understand%20JavaScript's%20this%20Keyword%20in%20Depth%20-%20Javascript%20)
-[^7](Classes%20-%20Javascript.md)
+[^1]: [What is a Run Time Environment](../../What%20is%20a%20Run%20Time%20Environment.md)
+[^2]: [Objects - Javascript](Objects%20-%20Javascript.md)
+[^3]: [Arrow Function and how it is different from others - Javascript](Arrow%20Function%20and%20how%20it%20is%20different%20from%20others%20-%20Javascript.md)
+[^4]: [Different ways to define or declare Functions](Different%20ways%20to%20define%20or%20declare%20Functions.md)
+[^5]: [this - Object Methods in Javascript](this%20-%20Object%20Methods%20in%20Javascript.md)
+[^6]: [Understand JavaScript's this Keyword in Depth - Javascript](../../../2%20-%20Source%20Material/FrontEnd%20Material/Understand%20JavaScript's%20this%20Keyword%20in%20Depth%20-%20Javascript.md)
+[^7]: [Classes - Javascript](Classes%20-%20Javascript.md)

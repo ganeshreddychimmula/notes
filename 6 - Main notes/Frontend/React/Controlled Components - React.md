@@ -3,7 +3,7 @@
 
 Status:
 
-Tags:
+Tags: [React](../../../3%20-%20Tags/React.md)
 
 ---
 # Controlled Components - React
@@ -248,4 +248,4 @@ export default function Main() {
 ---
 ## References
 
-[^1](Forms%20-%20React.md)
+[^1]: [Forms - React](Forms%20-%20React.md)

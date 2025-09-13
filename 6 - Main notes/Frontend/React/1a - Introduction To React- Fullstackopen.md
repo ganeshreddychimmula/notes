@@ -151,5 +151,5 @@ const App = () => {
 
 ---
 ## References
-[^1](../../../2%20-%20Source%20Material/FrontEnd%20Material/React/Setting%20Up%20React%20Locally%20with%20Vite.md)
-[^2](Composability%20in%20React%20and%20why%20its%20important.md)
+[^1]: [Setting Up React Locally with Vite](../../../2%20-%20Source%20Material/FrontEnd%20Material/React/Setting%20Up%20React%20Locally%20with%20Vite.md)
+[^2]: [Composability in React and why its important](Composability%20in%20React%20and%20why%20its%20important.md)

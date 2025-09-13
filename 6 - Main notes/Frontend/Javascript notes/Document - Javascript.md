@@ -69,4 +69,4 @@ Tags: [JavaScript](../../../3%20-%20Tags/JavaScript.md)
 
 ---
 ## References
-[^1](What%20is%20DOM,%20structure%20and%20navigation%20-%20Javascript.md)
+[^1]: [What is DOM, structure and navigation - Javascript](What%20is%20DOM,%20structure%20and%20navigation%20-%20Javascript.md)

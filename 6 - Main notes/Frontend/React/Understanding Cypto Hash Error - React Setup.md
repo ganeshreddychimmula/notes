@@ -3,7 +3,7 @@
 
 Status:
 
-Tags:  [Error](Error) 
+Tags:  [Error](Error) [React](../../../3%20-%20Tags/React.md)
 
 ---
 # Understanding Cypto Hash Error - React Setup

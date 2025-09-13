@@ -3,7 +3,7 @@
 
 Status:
 
-Tags:
+Tags: [React](../../../3%20-%20Tags/React.md)
 
 ---
 # Instances where props.children is useful - React
@@ -109,5 +109,5 @@ In essence,
 
 ---
 ## References
-[^1](Compound%20components%20-%20React.md)
-[^2](prop%20injection%20-%20React) 
+[^1]: [Compound components - React](Compound%20components%20-%20React.md)
+[^2]: [prop injection - React](prop%20injection%20-%20React)

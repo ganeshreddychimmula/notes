@@ -26,5 +26,5 @@ It's Declarative!
 - With vanilla JS, it would be quite messy and you need to manually consider lot of constantly updating, changing parts of application.
 ---
 ## References
-[^1](../../../2%20-%20Source%20Material/FrontEnd%20Material/React/Why%20React%20over%20Vanilla%20JS.md)
+[^1]: [Why React over Vanilla JS](../../../2%20-%20Source%20Material/FrontEnd%20Material/React/Why%20React%20over%20Vanilla%20JS.md)
 

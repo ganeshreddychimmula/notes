@@ -3,7 +3,7 @@
 
 Status:
 
-Tags:
+Tags: [React](../../../3%20-%20Tags/React.md)
 
 ---
 # props de-structuring and its importance - React [^1]
@@ -103,4 +103,4 @@ In essence, props destructuring is a best practice in modern React development t
 
 ---
 ## References
-[^1](../Javascript%20notes/Destructuring%20Concept.md)
+[^1]: [props de-structuring and its importance - React](props%20de-structuring%20and%20its%20importance%20-%20React.md)

@@ -3,7 +3,7 @@
 
 Status:
 
-Tags:[React Router](../../../3%20-%20Tags/React%20Router.md)
+Tags:[React Router](../../../3%20-%20Tags/React%20Router.md) [React](../../../3%20-%20Tags/React.md)
 
 ---
 # How to pick a Router - React Router 6

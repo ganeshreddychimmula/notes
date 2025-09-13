@@ -202,4 +202,4 @@ For operations like searching, filtering, or any action that **doesn’t modify 
 ---
 
 ## References
- [^1](Why%20GET%20is%20preferred%20over%20the%20POST%20method%20)
+ [^1]: [Why GET is preferred over the POST method](Why%20GET%20is%20preferred%20over%20the%20POST%20method.md)

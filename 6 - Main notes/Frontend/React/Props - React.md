@@ -143,6 +143,6 @@ E.g:
 [Passing and Receiving Props - React](Passing%20and%20Receiving%20Props%20-%20React.md)
 [Question - Can I pass a custom Prop to a Native DOM Element ](Question%20-%20Can%20I%20pass%20a%20custom%20Prop%20to%20a%20Native%20DOM%20Element%20)
 [Destructuring Concept](../Javascript%20notes/Destructuring%20Concept.md)
-[Handling Static assets(Like images) in React](Like%20images)%20in%20React)%20in%20React.md)
+[Handling Static assets(Like images) in React](Handling%20Static%20assets(Like%20images)%20in%20React.md)
 [Keys property - React](Keys%20property%20-%20React.md)
 [Some instances where props.children is useful - React](Some%20instances%20where%20props.children%20is%20useful%20-%20React.md)

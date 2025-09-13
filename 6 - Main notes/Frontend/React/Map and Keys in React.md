@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [JavaScript](../../../3%20-%20Tags/JavaScript.md)
+Tags: [JavaScript](../../../3%20-%20Tags/JavaScript.md) [React](../../../3%20-%20Tags/React.md)
 
 ---
 # Map and Keys in React

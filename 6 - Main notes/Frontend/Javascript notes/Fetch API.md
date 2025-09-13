@@ -487,4 +487,4 @@ robustFetch(url, {})
 - Body is single‑use; clone if needed; stream when large.
 ---
 ## References
-[CORS (Cross-Origin Resource Sharing)](Cross-Origin%20Resource%20Sharing)).md)
+[CORS (Cross-Origin Resource Sharing)](../CORS%20(Cross-Origin%20Resource%20Sharing).md)

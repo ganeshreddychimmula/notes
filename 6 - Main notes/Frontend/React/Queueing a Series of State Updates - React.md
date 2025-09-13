@@ -3,7 +3,7 @@
 
 Status:
 
-Tags:
+Tags: [React](../../../3%20-%20Tags/React.md)
 
 ---
 # [Queueing a Series of State Updates - React](https://react.dev/learn/queueing-a-series-of-state-updates)

@@ -213,4 +213,4 @@ const favColor = formData.get("favColor")
 ---
 ## References
 
-[^1]()%20-%20javaScript)%20-%20javaScript.md)
+[^1]: [object.fromEntries() - javaScript](../Javascript%20notes/object.fromEntries()%20-%20javaScript.md)

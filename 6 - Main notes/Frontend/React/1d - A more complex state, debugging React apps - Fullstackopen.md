@@ -3,7 +3,7 @@
 
 Status:
 
-Tags:
+Tags: [React](../../../3%20-%20Tags/React.md)
 
 ---
 # 1d - A more complex state, debugging React apps - Fullstackopen
@@ -228,8 +228,8 @@ At this point, it is worth remembering the old wisdom of [Brian Kerningham](htt
 
 ---
 ## References
-[^1](Why%20can't%20I%20directly%20modify%20a%20component's%20state%20-%20React.md)
-[^2](Choosing%20state%20structure%20-%20React.md)
-[^3](How%20React%20handles%20or%20renders%20Arrays.md)
-[^4](Queueing%20a%20Series%20of%20State%20Updates%20-%20React.md)
-[^5](Why%20shouldn't%20we%20use%20hooks%20inside%20loops%20or%20conditions%20-%20React.md)
+[^1]: [Why can't I directly modify a component's state - React](Why%20can't%20I%20directly%20modify%20a%20component's%20state%20-%20React.md)
+[^2]: [Choosing state structure - React](Choosing%20state%20structure%20-%20React.md)
+[^3]: [How React handles or renders Arrays](How%20React%20handles%20or%20renders%20Arrays.md)
+[^4]: [Queueing a Series of State Updates - React](Queueing%20a%20Series%20of%20State%20Updates%20-%20React.md)
+[^5]: [Why shouldn't we use hooks inside loops or conditions - React](Why%20shouldn't%20we%20use%20hooks%20inside%20loops%20or%20conditions%20-%20React.md)

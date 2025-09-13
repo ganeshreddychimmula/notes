@@ -3,7 +3,7 @@
 
 Status:
 
-Tags:
+Tags: [React](../../../3%20-%20Tags/React.md)
 
 ---
 ### ✅ **“If you can avoid state, avoid state” — Meaning**

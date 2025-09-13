@@ -169,11 +169,11 @@ Oftentimes, full-stack developers must also have enough configuration and admini
 
 ---
 ## References
-[^2](Javascript%20notes/Traditional%20or%20Old%20school%20web%20applications.md)
-[^3](Javascript%20notes/Running%20application%20logic%20in%20browser.md)
-[^5]()%20-%20grandfather%20of%20AJAX)%20-%20grandfather%20of%20AJAX.md)
-[^6]()%20event%20handler)%20event%20handler.md)
-[^7](Javascript%20notes/What%20is%20DOM,%20structure%20and%20navigation%20-%20Javascript.md)
-[^8](HTTP%20-%20Fundamentals.md)
-[^9](Single%20Page%20Application.md)
-[^10](Javascript%20notes/What%20does%20Full%20Stack%20Web%20development%20mean.md)
+[^2]: [Traditional or Old school web applications](Javascript%20notes/Traditional%20or%20Old%20school%20web%20applications.md)
+[^3]: [Running application logic in browser](Javascript%20notes/Running%20application%20logic%20in%20browser.md)
+[^5]: [XMLHttpRequest() - grandfather of AJAX](Javascript%20notes/XMLHttpRequest()%20-%20grandfather%20of%20AJAX.md)
+[^6]: [Event Listeners](Javascript%20notes/Event%20Listeners.md) 
+[^7]: [What is DOM, structure and navigation - Javascript](Javascript%20notes/What%20is%20DOM,%20structure%20and%20navigation%20-%20Javascript.md)
+[^8]: [HTTP - Fundamentals](HTTP%20-%20Fundamentals.md)
+[^9]: [Single Page Application](Single%20Page%20Application.md)
+[^10]:: [What does Full Stack Web development mean](What%20does%20Full%20Stack%20Web%20development%20mean.md)

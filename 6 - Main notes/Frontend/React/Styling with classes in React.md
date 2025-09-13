@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [React](../../../3%20-%20Tags/React.md) [[Styles] 
+Tags: [React](../../../3%20-%20Tags/React.md) [[Styles]]
 
 ---
 # Styling with classes in React
