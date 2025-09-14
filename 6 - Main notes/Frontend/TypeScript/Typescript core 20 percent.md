@@ -50,7 +50,7 @@ You'll constantly need to define the "shape" of objects and other complex data s
         
         TypeScript
         
-        ```
+        ```ts
         interface User {
           id: UserID;
           username: string;
@@ -88,7 +88,7 @@ Generics are arguably the most powerful feature for an intermediate developer. T
     
     TypeScript
     
-    ```
+    ```ts
     function getFirstElement<T>(arr: T[]): T | undefined {
       return arr[0];
     }

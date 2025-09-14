@@ -3,7 +3,7 @@
 
 Status:
 
-Tags:
+Tags: [TypeScript](../../../3%20-%20Tags/TypeScript.md)
 
 ---
 # Typescript Course - Scrimba

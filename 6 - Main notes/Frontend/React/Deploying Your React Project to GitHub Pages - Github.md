@@ -38,7 +38,7 @@ Open your `package.json` file (it's in your project's root directory) and make t
     
     JSON
     
-    ```
+    ```json
     // Inside your package.json, typically near the top level, after "version"
     "homepage": "http://ganeshreddychimmula.github.io/YOUR_REPOSITORY_NAME",
     ```
@@ -272,7 +272,7 @@ Your `scripts` section should now look like this:
 
 JSON
 
-```
+```ts
 {
   "name": "donation-inventory",
   "private": true,
