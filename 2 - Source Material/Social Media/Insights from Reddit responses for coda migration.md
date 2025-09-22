@@ -165,8 +165,14 @@ Here’s a breakdown of their key points:
             
         - **Health Dashboard:** A simple dashboard to monitor the system's health after launch (e.g., tracking failed syncs or error logs).
 
+---
+# 4
 
+Really good discussion! One thing I’d add to what others have already advised is to think about the integrations as workflows first, rather than as a set of Airtable automations you need to replicate in Coda. Before you start building, try writing them out in plain language: “when someone schedules a meeting, we create a record, notify the team, and attach the link.” That way you’re clear on the purpose, not just the mechanism. Once you’ve got the workflow mapped, you can decide how best to implement it in Coda, or whether it even makes sense to keep it at all.
 
+On documentation, the most useful thing you can capture isn’t every little detail, it’s the quirks and dependencies. Why something is set up in a strange way, what will break if a field changes, etc. That’s the kind of context that really helps with handover.
+
+What you’re really doing here is learning integration design, which is a skill in its own right. Even though your immediate task is Airtable → Coda, the way you approach it will shape how maintainable and adaptable the system is in the long run. The habits you build now around mapping, phasing, and documenting will serve you well on other projects down the line.
 
 ---
 ## References
